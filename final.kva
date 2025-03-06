@@ -1,0 +1,2366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinoveaVideoAnalysis>
+  <FormatVersion>2.0</FormatVersion>
+  <Producer>Kinovea.2023.1.2</Producer>
+  <OriginalFilename>WhatsApp Video 2025-03-02 at 10.09.01_3f957fc8</OriginalFilename>
+  <FullPath>F:\projects\Kinovea\WhatsApp Video 2025-03-02 at 10.09.01_3f957fc8.mp4</FullPath>
+  <ImageSize>1280;720</ImageSize>
+  <Aspect>Auto</Aspect>
+  <Rotation>Rotate0</Rotation>
+  <Mirror>false</Mirror>
+  <Demosaicing>None</Demosaicing>
+  <Deinterlacing>false</Deinterlacing>
+  <AverageTimeStampsPerFrame>512</AverageTimeStampsPerFrame>
+  <CaptureFramerate>30</CaptureFramerate>
+  <UserFramerate>30</UserFramerate>
+  <FirstTimeStamp>512</FirstTimeStamp>
+  <SelectionStart>512</SelectionStart>
+  <SelectionEnd>182810</SelectionEnd>
+  <TimeOrigin>512</TimeOrigin>
+  <Calibration>
+    <CalibrationLine>
+      <Length>180</Length>
+      <Segment>
+        <A>906.7576;76.17744</A>
+        <B>361.2286;83.54951</B>
+      </Segment>
+      <Origin>2.040743E-07;180</Origin>
+      <Axis>LineVertical</Axis>
+    </CalibrationLine>
+    <CalibrationDrawingId>6d6a94c8-eb3a-4599-9851-c3edcbf51bb5</CalibrationDrawingId>
+    <Unit Abbreviation="cm">Centimeters</Unit>
+  </Calibration>
+  <Keyframes>
+    <Keyframe id="11e55fc3-5692-419c-b6a6-c80f46acccdb">
+      <Timestamp>512</Timestamp>
+      <Name>0.00</Name>
+      <Color>70;130;180</Color>
+      <Drawings>
+        <Angle id="9d0a69c4-7dbe-4664-a0f5-580db7fed28b" name="Angle 1">
+          <PointO>701;198</PointO>
+          <PointA>718.6816;274.33</PointA>
+          <PointB>690.7623;344.954</PointB>
+          <Signed>true</Signed>
+          <CCW>true</CCW>
+          <Supplementary>false</Supplementary>
+          <DrawingStyle>
+            <Color Key="line color">
+              <Value>255;0;153;153</Value>
+            </Color>
+            <FontSize Key="font size">
+              <Value>12</Value>
+            </FontSize>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Angle>
+        <Line id="6d6a94c8-eb3a-4599-9851-c3edcbf51bb5" name="Line 1">
+          <Start>906.7576;76.17744</Start>
+          <End>914.1297;621.7064</End>
+          <ExtraData>TravelDistance</ExtraData>
+          <MeasureLabel>
+            <SpacePosition>890.4437;298.942</SpacePosition>
+            <TimePosition>0</TimePosition>
+          </MeasureLabel>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;255;127;0</Value>
+            </Color>
+            <LineSize Key="line size">
+              <Value>2</Value>
+            </LineSize>
+            <LineShape Key="line shape">
+              <Value>Solid</Value>
+            </LineShape>
+            <Arrows Key="arrows">
+              <Value>None</Value>
+            </Arrows>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>30</Frames>
+          </InfosFading>
+        </Line>
+      </Drawings>
+    </Keyframe>
+  </Keyframes>
+  <Tracks>
+    <Track id="bc63cf61-367e-43e3-8432-8d3e20a04d3d" name="Sholder">
+      <TimePosition>512</TimePosition>
+      <Visible>0</Visible>
+      <Invisible>-1</Invisible>
+      <ExtraData>Clock</ExtraData>
+      <Marker>Cross</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>71;152</SearchWindow>
+        <BlockWindow>59;53</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="341">
+        <TrackPoint>710.4615;191.7692;512</TrackPoint>
+        <TrackPoint>709.4661;191.7674;1024</TrackPoint>
+        <TrackPoint>709.472;192.7596;1536</TrackPoint>
+        <TrackPoint>709.46;192.7584;2048</TrackPoint>
+        <TrackPoint>709.4426;194.755;2560</TrackPoint>
+        <TrackPoint>708.442;197.7568;3072</TrackPoint>
+        <TrackPoint>707.4366;201.754;3584</TrackPoint>
+        <TrackPoint>705.4389;206.7546;4096</TrackPoint>
+        <TrackPoint>706.4285;207.7504;4608</TrackPoint>
+        <TrackPoint>705.4287;209.7507;5120</TrackPoint>
+        <TrackPoint>704.4299;212.7497;5632</TrackPoint>
+        <TrackPoint>703.4323;215.75;6144</TrackPoint>
+        <TrackPoint>702.4316;218.7511;6656</TrackPoint>
+        <TrackPoint>700.4341;222.7513;7168</TrackPoint>
+        <TrackPoint>699.4365;226.7537;7680</TrackPoint>
+        <TrackPoint>698.4387;230.7537;8192</TrackPoint>
+        <TrackPoint>696.4407;233.7525;8704</TrackPoint>
+        <TrackPoint>688.9792;239.4384;9216</TrackPoint>
+        <TrackPoint>689.9028;251.0541;9728</TrackPoint>
+        <TrackPoint>686.9036;250.8206;10240</TrackPoint>
+        <TrackPoint>686.8989;255.8152;10752</TrackPoint>
+        <TrackPoint>686.8946;260.8202;11264</TrackPoint>
+        <TrackPoint>685.8999;265.8253;11776</TrackPoint>
+        <TrackPoint>684.9055;269.8282;12288</TrackPoint>
+        <TrackPoint>684.9053;274.8282;12800</TrackPoint>
+        <TrackPoint>684.9019;279.8302;13312</TrackPoint>
+        <TrackPoint>684.9007;284.8383;13824</TrackPoint>
+        <TrackPoint>683.9026;290.8375;14336</TrackPoint>
+        <TrackPoint>683.9016;295.8451;14848</TrackPoint>
+        <TrackPoint>683.8997;301.8465;15360</TrackPoint>
+        <TrackPoint>682.9003;307.8466;15872</TrackPoint>
+        <TrackPoint>682.9028;313.8404;16384</TrackPoint>
+        <TrackPoint>683.9017;319.8362;16896</TrackPoint>
+        <TrackPoint>683.9005;325.8354;17408</TrackPoint>
+        <TrackPoint>684.8978;331.8257;17920</TrackPoint>
+        <TrackPoint>683.899;335.8298;18432</TrackPoint>
+        <TrackPoint>683.8986;340.8273;18944</TrackPoint>
+        <TrackPoint>683.9006;344.8297;19456</TrackPoint>
+        <TrackPoint>683.8983;349.8248;19968</TrackPoint>
+        <TrackPoint>683.8992;353.8377;20480</TrackPoint>
+        <TrackPoint>685.9;356.8398;20992</TrackPoint>
+        <TrackPoint>685.9005;359.8429;21504</TrackPoint>
+        <TrackPoint>682.9026;363.8475;22016</TrackPoint>
+        <TrackPoint>682.9027;366.8525;22528</TrackPoint>
+        <TrackPoint>682.9039;369.8476;23040</TrackPoint>
+        <TrackPoint>682.9066;371.8459;23552</TrackPoint>
+        <TrackPoint>682.9041;373.8496;24064</TrackPoint>
+        <TrackPoint>682.8991;375.8504;24576</TrackPoint>
+        <TrackPoint>681.9033;377.8432;25088</TrackPoint>
+        <TrackPoint>681.9037;378.843;25600</TrackPoint>
+        <TrackPoint>681.8995;379.8417;26112</TrackPoint>
+        <TrackPoint>680.9039;380.8438;26624</TrackPoint>
+        <TrackPoint>680.9035;381.8408;27136</TrackPoint>
+        <TrackPoint>680.9008;381.8492;27648</TrackPoint>
+        <TrackPoint>680.8953;382.8434;28160</TrackPoint>
+        <TrackPoint>680.8886;382.8423;28672</TrackPoint>
+        <TrackPoint>680.882;382.8412;29184</TrackPoint>
+        <TrackPoint>680.877;382.838;29696</TrackPoint>
+        <TrackPoint>680.8712;381.8476;30208</TrackPoint>
+        <TrackPoint>680.8647;381.8491;30720</TrackPoint>
+        <TrackPoint>680.8588;380.8514;31232</TrackPoint>
+        <TrackPoint>680.8562;379.8523;31744</TrackPoint>
+        <TrackPoint>680.8557;378.8438;32256</TrackPoint>
+        <TrackPoint>680.8563;376.8339;32768</TrackPoint>
+        <TrackPoint>680.8578;373.832;33280</TrackPoint>
+        <TrackPoint>680.8594;369.841;33792</TrackPoint>
+        <TrackPoint>680.8552;365.8357;34304</TrackPoint>
+        <TrackPoint>679.858;359.8378;34816</TrackPoint>
+        <TrackPoint>679.8621;352.8352;35328</TrackPoint>
+        <TrackPoint>678.8668;345.8308;35840</TrackPoint>
+        <TrackPoint>679.8663;336.8294;36352</TrackPoint>
+        <TrackPoint>679.8675;326.83;36864</TrackPoint>
+        <TrackPoint>678.8695;315.8292;37376</TrackPoint>
+        <TrackPoint>680.8718;303.8259;37888</TrackPoint>
+        <TrackPoint>682.8706;290.8195;38400</TrackPoint>
+        <TrackPoint>685.87;276.817;38912</TrackPoint>
+        <TrackPoint>687.8739;264.8198;39424</TrackPoint>
+        <TrackPoint>691.8738;248.8173;39936</TrackPoint>
+        <TrackPoint>686.371;235.8201;40448</TrackPoint>
+        <TrackPoint>689.3712;229.8215;40960</TrackPoint>
+        <TrackPoint>688.3723;220.8235;41472</TrackPoint>
+        <TrackPoint>691.5251;210.3623;41984</TrackPoint>
+        <TrackPoint>688.2938;205.5933;42496</TrackPoint>
+        <TrackPoint>696.1418;199.4418;43008</TrackPoint>
+        <TrackPoint>704.526;193.2918;43520</TrackPoint>
+        <TrackPoint>707.5227;190.2925;44032</TrackPoint>
+        <TrackPoint>709.5156;190.2916;44544</TrackPoint>
+        <TrackPoint>710.5037;191.2892;45056</TrackPoint>
+        <TrackPoint>710.5093;192.2882;45568</TrackPoint>
+        <TrackPoint>712.4929;192.2849;46080</TrackPoint>
+        <TrackPoint>713.498;192.2847;46592</TrackPoint>
+        <TrackPoint>714.5058;192.2828;47104</TrackPoint>
+        <TrackPoint>715.4933;192.2774;47616</TrackPoint>
+        <TrackPoint>715.4902;192.2746;48128</TrackPoint>
+        <TrackPoint>715.4796;192.2725;48640</TrackPoint>
+        <TrackPoint>715.4719;193.2681;49152</TrackPoint>
+        <TrackPoint>715.4606;193.264;49664</TrackPoint>
+        <TrackPoint>715.4495;193.2617;50176</TrackPoint>
+        <TrackPoint>714.461;194.2562;50688</TrackPoint>
+        <TrackPoint>714.4756;194.25;51200</TrackPoint>
+        <TrackPoint>713.4709;193.2564;51712</TrackPoint>
+        <TrackPoint>713.4537;194.2542;52224</TrackPoint>
+        <TrackPoint>712.4637;194.2569;52736</TrackPoint>
+        <TrackPoint>712.454;194.2626;53248</TrackPoint>
+        <TrackPoint>711.4502;195.2582;53760</TrackPoint>
+        <TrackPoint>710.4366;195.2547;54272</TrackPoint>
+        <TrackPoint>708.4493;195.2537;54784</TrackPoint>
+        <TrackPoint>707.4439;195.2532;55296</TrackPoint>
+        <TrackPoint>705.4547;195.2514;55808</TrackPoint>
+        <TrackPoint>704.4317;195.2459;56320</TrackPoint>
+        <TrackPoint>702.4337;195.2433;56832</TrackPoint>
+        <TrackPoint>701.4175;195.2395;57344</TrackPoint>
+        <TrackPoint>700.4032;195.235;57856</TrackPoint>
+        <TrackPoint>699.3886;195.2294;58368</TrackPoint>
+        <TrackPoint>698.385;195.2242;58880</TrackPoint>
+        <TrackPoint>697.3707;195.2178;59392</TrackPoint>
+        <TrackPoint>696.3628;195.2118;59904</TrackPoint>
+        <TrackPoint>695.3717;194.2137;60416</TrackPoint>
+        <TrackPoint>695.3518;194.213;60928</TrackPoint>
+        <TrackPoint>694.3486;194.2128;61440</TrackPoint>
+        <TrackPoint>693.3427;194.2117;61952</TrackPoint>
+        <TrackPoint>692.3467;195.2062;62464</TrackPoint>
+        <TrackPoint>691.3417;194.208;62976</TrackPoint>
+        <TrackPoint>690.3297;195.2039;63488</TrackPoint>
+        <TrackPoint>688.3318;195.1999;64000</TrackPoint>
+        <TrackPoint>686.3271;195.1965;64512</TrackPoint>
+        <TrackPoint>684.3293;195.1984;65024</TrackPoint>
+        <TrackPoint>682.3385;196.1985;65536</TrackPoint>
+        <TrackPoint>681.3297;197.1958;66048</TrackPoint>
+        <TrackPoint>679.33;198.1938;66560</TrackPoint>
+        <TrackPoint>676.3312;199.196;67072</TrackPoint>
+        <TrackPoint>674.3299;201.1976;67584</TrackPoint>
+        <TrackPoint>671.3359;201.1959;68096</TrackPoint>
+        <TrackPoint>668.3308;205.1893;68608</TrackPoint>
+        <TrackPoint>664.3315;209.1856;69120</TrackPoint>
+        <TrackPoint>664.327;210.1841;69632</TrackPoint>
+        <TrackPoint>661.328;213.1854;70144</TrackPoint>
+        <TrackPoint>659.3271;217.1857;70656</TrackPoint>
+        <TrackPoint>657.3271;221.1855;71168</TrackPoint>
+        <TrackPoint>656.3265;226.1825;71680</TrackPoint>
+        <TrackPoint>651.3273;232.1822;72192</TrackPoint>
+        <TrackPoint>652.3276;236.1804;72704</TrackPoint>
+        <TrackPoint>648.327;241.1796;73216</TrackPoint>
+        <TrackPoint>646.3229;245.1777;73728</TrackPoint>
+        <TrackPoint>643.3234;249.1787;74240</TrackPoint>
+        <TrackPoint>648.8529;267.1668;74752</TrackPoint>
+        <TrackPoint>647.8679;272.1664;75264</TrackPoint>
+        <TrackPoint>645.8667;276.1746;75776</TrackPoint>
+        <TrackPoint>645.8594;288.1702;76288</TrackPoint>
+        <TrackPoint>643.8524;294.1682;76800</TrackPoint>
+        <TrackPoint>641.849;299.1741;77312</TrackPoint>
+        <TrackPoint>640.8417;306.187;77824</TrackPoint>
+        <TrackPoint>638.8497;313.1809;78336</TrackPoint>
+        <TrackPoint>636.8566;318.1707;78848</TrackPoint>
+        <TrackPoint>636.8505;324.1756;79360</TrackPoint>
+        <TrackPoint>635.8629;329.1711;79872</TrackPoint>
+        <TrackPoint>634.8583;334.1801;80384</TrackPoint>
+        <TrackPoint>632.8635;341.1715;80896</TrackPoint>
+        <TrackPoint>631.8652;346.1724;81408</TrackPoint>
+        <TrackPoint>632.8574;353.1727;81920</TrackPoint>
+        <TrackPoint>629.8624;356.1729;82432</TrackPoint>
+        <TrackPoint>628.8723;361.162;82944</TrackPoint>
+        <TrackPoint>628.8728;365.167;83456</TrackPoint>
+        <TrackPoint>627.8771;370.1604;83968</TrackPoint>
+        <TrackPoint>626.8802;373.1644;84480</TrackPoint>
+        <TrackPoint>626.8804;377.1647;84992</TrackPoint>
+        <TrackPoint>625.8915;381.1547;85504</TrackPoint>
+        <TrackPoint>625.8939;383.1599;86016</TrackPoint>
+        <TrackPoint>625.8929;386.1641;86528</TrackPoint>
+        <TrackPoint>625.8953;389.1616;87040</TrackPoint>
+        <TrackPoint>625.8925;390.1675;87552</TrackPoint>
+        <TrackPoint>625.8893;392.1665;88064</TrackPoint>
+        <TrackPoint>624.8969;393.1678;88576</TrackPoint>
+        <TrackPoint>625.8918;394.1725;89088</TrackPoint>
+        <TrackPoint>625.8882;395.1711;89600</TrackPoint>
+        <TrackPoint>625.8848;395.1777;90112</TrackPoint>
+        <TrackPoint>625.8874;395.1825;90624</TrackPoint>
+        <TrackPoint>625.8926;395.1857;91136</TrackPoint>
+        <TrackPoint>626.8935;395.1922;91648</TrackPoint>
+        <TrackPoint>627.8923;395.1906;92160</TrackPoint>
+        <TrackPoint>627.8997;394.1996;92672</TrackPoint>
+        <TrackPoint>628.9059;393.201;93184</TrackPoint>
+        <TrackPoint>629.9144;391.2035;93696</TrackPoint>
+        <TrackPoint>630.9231;389.2185;94208</TrackPoint>
+        <TrackPoint>632.9257;389.2071;94720</TrackPoint>
+        <TrackPoint>633.9365;386.1953;95232</TrackPoint>
+        <TrackPoint>634.944;379.1885;95744</TrackPoint>
+        <TrackPoint>635.9531;373.1935;96256</TrackPoint>
+        <TrackPoint>637.9615;368.1888;96768</TrackPoint>
+        <TrackPoint>639.9682;361.1843;97280</TrackPoint>
+        <TrackPoint>642.9609;354.1773;97792</TrackPoint>
+        <TrackPoint>644.9631;345.1818;98304</TrackPoint>
+        <TrackPoint>648.9518;337.1821;98816</TrackPoint>
+        <TrackPoint>650.9521;327.1868;99328</TrackPoint>
+        <TrackPoint>654.946;319.1844;99840</TrackPoint>
+        <TrackPoint>657.9478;309.1815;100352</TrackPoint>
+        <TrackPoint>661.9477;298.1824;100864</TrackPoint>
+        <TrackPoint>665.714;278.5691;101376</TrackPoint>
+        <TrackPoint>668.2496;269.1084;101888</TrackPoint>
+        <TrackPoint>674.9397;253.8796;102400</TrackPoint>
+        <TrackPoint>676.2561;245.8779;102912</TrackPoint>
+        <TrackPoint>677.7974;232.1856;103424</TrackPoint>
+        <TrackPoint>682.7928;220.1826;103936</TrackPoint>
+        <TrackPoint>686.7864;209.1805;104448</TrackPoint>
+        <TrackPoint>686.7866;206.1877;104960</TrackPoint>
+        <TrackPoint>692.2955;190.1879;105472</TrackPoint>
+        <TrackPoint>693.3042;188.1866;105984</TrackPoint>
+        <TrackPoint>694.3098;187.1855;106496</TrackPoint>
+        <TrackPoint>696.3116;187.185;107008</TrackPoint>
+        <TrackPoint>697.308;189.1827;107520</TrackPoint>
+        <TrackPoint>701.6478;200.0296;108032</TrackPoint>
+        <TrackPoint>703.109;196.3473;108544</TrackPoint>
+        <TrackPoint>707.0323;199.8046;109056</TrackPoint>
+        <TrackPoint>704.5724;200.0442;109568</TrackPoint>
+        <TrackPoint>708.2668;198.8225;110080</TrackPoint>
+        <TrackPoint>705.8076;198.8318;110592</TrackPoint>
+        <TrackPoint>704.8125;198.6017;111104</TrackPoint>
+        <TrackPoint>704.7788;198.606;111616</TrackPoint>
+        <TrackPoint>703.7832;198.6039;112128</TrackPoint>
+        <TrackPoint>702.8101;198.5992;112640</TrackPoint>
+        <TrackPoint>702.8099;198.5954;113152</TrackPoint>
+        <TrackPoint>702.7875;198.5959;113664</TrackPoint>
+        <TrackPoint>701.8216;198.5874;114176</TrackPoint>
+        <TrackPoint>701.8276;198.5824;114688</TrackPoint>
+        <TrackPoint>701.8226;198.5768;115200</TrackPoint>
+        <TrackPoint>701.806;198.5699;115712</TrackPoint>
+        <TrackPoint>700.8389;198.5542;116224</TrackPoint>
+        <TrackPoint>700.8561;197.5651;116736</TrackPoint>
+        <TrackPoint>700.8739;197.5764;117248</TrackPoint>
+        <TrackPoint>700.8842;197.5866;117760</TrackPoint>
+        <TrackPoint>700.9068;197.5927;118272</TrackPoint>
+        <TrackPoint>700.9315;197.5978;118784</TrackPoint>
+        <TrackPoint>700.9606;197.6017;119296</TrackPoint>
+        <TrackPoint>701.9373;198.5878;119808</TrackPoint>
+        <TrackPoint>701.922;197.5956;120320</TrackPoint>
+        <TrackPoint>701.9255;197.6022;120832</TrackPoint>
+        <TrackPoint>701.9667;197.5996;121344</TrackPoint>
+        <TrackPoint>702.9307;197.6056;121856</TrackPoint>
+        <TrackPoint>702.9197;197.6061;122368</TrackPoint>
+        <TrackPoint>703.8643;197.6072;122880</TrackPoint>
+        <TrackPoint>703.878;197.597;123392</TrackPoint>
+        <TrackPoint>704.854;197.5959;123904</TrackPoint>
+        <TrackPoint>704.866;197.5937;124416</TrackPoint>
+        <TrackPoint>705.8705;197.5951;124928</TrackPoint>
+        <TrackPoint>706.8403;197.603;125440</TrackPoint>
+        <TrackPoint>706.8421;197.6093;125952</TrackPoint>
+        <TrackPoint>706.8434;197.6181;126464</TrackPoint>
+        <TrackPoint>706.8493;198.6093;126976</TrackPoint>
+        <TrackPoint>705.8741;198.6031;127488</TrackPoint>
+        <TrackPoint>705.8616;199.5956;128000</TrackPoint>
+        <TrackPoint>705.8566;200.5961;128512</TrackPoint>
+        <TrackPoint>705.8479;205.5982;129024</TrackPoint>
+        <TrackPoint>704.8547;207.5972;129536</TrackPoint>
+        <TrackPoint>703.861;210.5984;130048</TrackPoint>
+        <TrackPoint>703.8604;216.5957;130560</TrackPoint>
+        <TrackPoint>701.8677;218.5963;131072</TrackPoint>
+        <TrackPoint>701.8734;225.5954;131584</TrackPoint>
+        <TrackPoint>700.8818;231.5922;132096</TrackPoint>
+        <TrackPoint>699.8912;236.588;132608</TrackPoint>
+        <TrackPoint>700.8851;246.5872;133120</TrackPoint>
+        <TrackPoint>700.8908;248.5855;133632</TrackPoint>
+        <TrackPoint>696.8901;267.5851;134144</TrackPoint>
+        <TrackPoint>695.887;274.5889;134656</TrackPoint>
+        <TrackPoint>696.8862;277.5906;135168</TrackPoint>
+        <TrackPoint>694.8911;280.5934;135680</TrackPoint>
+        <TrackPoint>693.8926;286.5939;136192</TrackPoint>
+        <TrackPoint>692.897;292.5945;136704</TrackPoint>
+        <TrackPoint>691.9016;299.5983;137216</TrackPoint>
+        <TrackPoint>691.897;305.6016;137728</TrackPoint>
+        <TrackPoint>690.8986;312.6005;138240</TrackPoint>
+        <TrackPoint>690.8917;318.6025;138752</TrackPoint>
+        <TrackPoint>690.8853;324.6052;139264</TrackPoint>
+        <TrackPoint>689.8876;330.6055;139776</TrackPoint>
+        <TrackPoint>689.8878;335.6079;140288</TrackPoint>
+        <TrackPoint>688.8869;341.6096;140800</TrackPoint>
+        <TrackPoint>691.9276;341.0725;141312</TrackPoint>
+        <TrackPoint>688.6971;348.2255;141824</TrackPoint>
+        <TrackPoint>688.695;347.2369;142336</TrackPoint>
+        <TrackPoint>689.6931;358.24;142848</TrackPoint>
+        <TrackPoint>689.6934;360.245;143360</TrackPoint>
+        <TrackPoint>690.6937;366.2421;143872</TrackPoint>
+        <TrackPoint>686.6948;371.2383;144384</TrackPoint>
+        <TrackPoint>686.7001;373.2429;144896</TrackPoint>
+        <TrackPoint>686.7034;377.2368;145408</TrackPoint>
+        <TrackPoint>687.6987;380.2316;145920</TrackPoint>
+        <TrackPoint>687.6956;383.2254;146432</TrackPoint>
+        <TrackPoint>687.6935;385.226;146944</TrackPoint>
+        <TrackPoint>687.6935;388.2217;147456</TrackPoint>
+        <TrackPoint>687.6957;389.2293;147968</TrackPoint>
+        <TrackPoint>688.6911;390.236;148480</TrackPoint>
+        <TrackPoint>688.6879;391.2365;148992</TrackPoint>
+        <TrackPoint>688.6868;392.2318;149504</TrackPoint>
+        <TrackPoint>688.6877;392.2276;150016</TrackPoint>
+        <TrackPoint>688.6884;392.225;150528</TrackPoint>
+        <TrackPoint>688.6893;392.2204;151040</TrackPoint>
+        <TrackPoint>688.6895;392.2122;151552</TrackPoint>
+        <TrackPoint>689.6841;391.2108;152064</TrackPoint>
+        <TrackPoint>689.6789;391.2023;152576</TrackPoint>
+        <TrackPoint>689.6749;390.2018;153088</TrackPoint>
+        <TrackPoint>689.67;389.2127;153600</TrackPoint>
+        <TrackPoint>689.6645;389.2155;154112</TrackPoint>
+        <TrackPoint>688.6663;389.205;154624</TrackPoint>
+        <TrackPoint>689.6596;388.2003;155136</TrackPoint>
+        <TrackPoint>688.6622;387.1944;155648</TrackPoint>
+        <TrackPoint>688.6656;384.1971;156160</TrackPoint>
+        <TrackPoint>688.6687;382.1905;156672</TrackPoint>
+        <TrackPoint>688.6707;378.1893;157184</TrackPoint>
+        <TrackPoint>688.6698;374.1803;157696</TrackPoint>
+        <TrackPoint>688.67;368.1871;158208</TrackPoint>
+        <TrackPoint>689.6674;362.1909;158720</TrackPoint>
+        <TrackPoint>687.6702;356.186;159232</TrackPoint>
+        <TrackPoint>683.6707;349.1856;159744</TrackPoint>
+        <TrackPoint>684.6706;341.186;160256</TrackPoint>
+        <TrackPoint>684.671;333.1845;160768</TrackPoint>
+        <TrackPoint>685.6698;324.1823;161280</TrackPoint>
+        <TrackPoint>685.6743;314.1785;161792</TrackPoint>
+        <TrackPoint>686.6741;303.1804;162304</TrackPoint>
+        <TrackPoint>689.6735;292.1799;162816</TrackPoint>
+        <TrackPoint>690.6741;280.1826;163328</TrackPoint>
+        <TrackPoint>690.6747;272.182;163840</TrackPoint>
+        <TrackPoint>692.6767;259.1812;164352</TrackPoint>
+        <TrackPoint>693.6723;250.1833;164864</TrackPoint>
+        <TrackPoint>688.6724;239.1817;165376</TrackPoint>
+        <TrackPoint>690.6722;230.182;165888</TrackPoint>
+        <TrackPoint>691.6708;220.1816;166400</TrackPoint>
+        <TrackPoint>691.6757;212.1792;166912</TrackPoint>
+        <TrackPoint>691.6733;206.1787;167424</TrackPoint>
+        <TrackPoint>689.6682;205.178;167936</TrackPoint>
+        <TrackPoint>692.6633;195.1776;168448</TrackPoint>
+        <TrackPoint>692.6671;194.1801;168960</TrackPoint>
+        <TrackPoint>693.6617;193.1793;169472</TrackPoint>
+        <TrackPoint>699.0913;195.9124;169984</TrackPoint>
+        <TrackPoint>703.2477;191.8153;170496</TrackPoint>
+        <TrackPoint>707.9973;199.1885;171008</TrackPoint>
+        <TrackPoint>708.7338;200.5043;171520</TrackPoint>
+        <TrackPoint>710.7884;204.607;172032</TrackPoint>
+        <TrackPoint>706.6873;199.1366;172544</TrackPoint>
+        <TrackPoint>709.4193;204.6057;173056</TrackPoint>
+        <TrackPoint>703.634;199.4504;173568</TrackPoint>
+        <TrackPoint>705.6847;197.0829;174080</TrackPoint>
+        <TrackPoint>706.366;202.5531;174592</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="Sholder">
+        <SpacePosition>690.4615;141.7692</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;255;0;0</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>1</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Dash;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="60c03dce-beb5-453d-864f-f79dc282b832" name="Knee">
+      <TimePosition>512</TimePosition>
+      <Visible>0</Visible>
+      <Invisible>-1</Invisible>
+      <ExtraData>Position</ExtraData>
+      <Marker>Cross</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>208;96</SearchWindow>
+        <BlockWindow>39;47</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="341">
+        <TrackPoint>695.2633;452.2574;512</TrackPoint>
+        <TrackPoint>694.2576;451.2574;1024</TrackPoint>
+        <TrackPoint>693.3088;451.2552;1536</TrackPoint>
+        <TrackPoint>692.3466;452.2585;2048</TrackPoint>
+        <TrackPoint>691.3904;452.2609;2560</TrackPoint>
+        <TrackPoint>690.4138;453.2616;3072</TrackPoint>
+        <TrackPoint>689.4139;453.2657;3584</TrackPoint>
+        <TrackPoint>688.4443;455.263;4096</TrackPoint>
+        <TrackPoint>688.4313;455.2607;4608</TrackPoint>
+        <TrackPoint>687.4001;454.2592;5120</TrackPoint>
+        <TrackPoint>686.3776;455.2548;5632</TrackPoint>
+        <TrackPoint>685.363;455.2549;6144</TrackPoint>
+        <TrackPoint>684.355;455.2594;6656</TrackPoint>
+        <TrackPoint>683.3311;455.2641;7168</TrackPoint>
+        <TrackPoint>681.3322;457.2603;7680</TrackPoint>
+        <TrackPoint>680.3271;457.2656;8192</TrackPoint>
+        <TrackPoint>678.3416;458.2702;8704</TrackPoint>
+        <TrackPoint>677.3134;459.2682;9216</TrackPoint>
+        <TrackPoint>675.3135;460.2713;9728</TrackPoint>
+        <TrackPoint>673.3408;461.2789;10240</TrackPoint>
+        <TrackPoint>670.3542;461.2808;10752</TrackPoint>
+        <TrackPoint>669.3562;461.2871;11264</TrackPoint>
+        <TrackPoint>667.3595;463.2835;11776</TrackPoint>
+        <TrackPoint>666.3549;463.2865;12288</TrackPoint>
+        <TrackPoint>664.355;465.28;12800</TrackPoint>
+        <TrackPoint>663.3565;465.2818;13312</TrackPoint>
+        <TrackPoint>662.3437;466.2764;13824</TrackPoint>
+        <TrackPoint>660.3488;467.278;14336</TrackPoint>
+        <TrackPoint>659.3478;468.2722;14848</TrackPoint>
+        <TrackPoint>658.3482;468.2754;15360</TrackPoint>
+        <TrackPoint>656.3541;467.2869;15872</TrackPoint>
+        <TrackPoint>655.3536;468.2852;16384</TrackPoint>
+        <TrackPoint>654.3535;469.2805;16896</TrackPoint>
+        <TrackPoint>653.3507;470.2773;17408</TrackPoint>
+        <TrackPoint>652.3467;471.2796;17920</TrackPoint>
+        <TrackPoint>651.3453;472.2828;18432</TrackPoint>
+        <TrackPoint>650.3415;473.286;18944</TrackPoint>
+        <TrackPoint>649.3366;475.2802;19456</TrackPoint>
+        <TrackPoint>648.3417;475.2891;19968</TrackPoint>
+        <TrackPoint>648.3366;476.2899;20480</TrackPoint>
+        <TrackPoint>647.3419;477.2833;20992</TrackPoint>
+        <TrackPoint>647.3429;477.2931;21504</TrackPoint>
+        <TrackPoint>647.3368;478.2845;22016</TrackPoint>
+        <TrackPoint>646.3337;477.3029;22528</TrackPoint>
+        <TrackPoint>645.3444;478.3095;23040</TrackPoint>
+        <TrackPoint>645.3487;478.325;23552</TrackPoint>
+        <TrackPoint>645.3459;479.3177;24064</TrackPoint>
+        <TrackPoint>644.3549;479.32;24576</TrackPoint>
+        <TrackPoint>644.3478;479.3275;25088</TrackPoint>
+        <TrackPoint>643.3547;480.3193;25600</TrackPoint>
+        <TrackPoint>643.3556;480.3137;26112</TrackPoint>
+        <TrackPoint>643.3517;480.3093;26624</TrackPoint>
+        <TrackPoint>643.3444;480.3072;27136</TrackPoint>
+        <TrackPoint>642.3515;480.3103;27648</TrackPoint>
+        <TrackPoint>642.3517;480.315;28160</TrackPoint>
+        <TrackPoint>642.3438;480.3242;28672</TrackPoint>
+        <TrackPoint>641.3517;480.3358;29184</TrackPoint>
+        <TrackPoint>641.3527;481.3292;29696</TrackPoint>
+        <TrackPoint>641.3555;480.3405;30208</TrackPoint>
+        <TrackPoint>641.3574;480.3517;30720</TrackPoint>
+        <TrackPoint>641.3602;480.3615;31232</TrackPoint>
+        <TrackPoint>642.3556;480.3662;31744</TrackPoint>
+        <TrackPoint>642.3565;480.3641;32256</TrackPoint>
+        <TrackPoint>642.358;480.3572;32768</TrackPoint>
+        <TrackPoint>642.3685;479.3677;33280</TrackPoint>
+        <TrackPoint>643.364;479.3694;33792</TrackPoint>
+        <TrackPoint>643.3587;479.3654;34304</TrackPoint>
+        <TrackPoint>643.358;478.3732;34816</TrackPoint>
+        <TrackPoint>643.3629;477.3844;35328</TrackPoint>
+        <TrackPoint>643.3648;477.3864;35840</TrackPoint>
+        <TrackPoint>643.3646;477.3842;36352</TrackPoint>
+        <TrackPoint>643.3619;477.3789;36864</TrackPoint>
+        <TrackPoint>643.3628;476.3781;37376</TrackPoint>
+        <TrackPoint>644.3593;475.3751;37888</TrackPoint>
+        <TrackPoint>644.3604;474.3729;38400</TrackPoint>
+        <TrackPoint>645.3535;471.3728;38912</TrackPoint>
+        <TrackPoint>646.357;470.3768;39424</TrackPoint>
+        <TrackPoint>648.3521;470.3655;39936</TrackPoint>
+        <TrackPoint>657.7256;469.2988;40448</TrackPoint>
+        <TrackPoint>662.3987;464.5032;40960</TrackPoint>
+        <TrackPoint>664.5039;463.9684;41472</TrackPoint>
+        <TrackPoint>665.5104;459.1277;41984</TrackPoint>
+        <TrackPoint>670.3358;456.2284;42496</TrackPoint>
+        <TrackPoint>678.1905;454.3363;43008</TrackPoint>
+        <TrackPoint>690.7767;453.3378;43520</TrackPoint>
+        <TrackPoint>695.8188;456.1289;44032</TrackPoint>
+        <TrackPoint>696.8768;451.446;44544</TrackPoint>
+        <TrackPoint>701.6508;462.075;45056</TrackPoint>
+        <TrackPoint>696.858;454.4949;45568</TrackPoint>
+        <TrackPoint>696.8983;453.4874;46080</TrackPoint>
+        <TrackPoint>697.9083;452.4936;46592</TrackPoint>
+        <TrackPoint>698.9445;453.4859;47104</TrackPoint>
+        <TrackPoint>698.9717;452.4881;47616</TrackPoint>
+        <TrackPoint>699.9609;453.4849;48128</TrackPoint>
+        <TrackPoint>699.9565;453.478;48640</TrackPoint>
+        <TrackPoint>699.9522;453.4705;49152</TrackPoint>
+        <TrackPoint>699.9547;453.4614;49664</TrackPoint>
+        <TrackPoint>699.9487;453.4539;50176</TrackPoint>
+        <TrackPoint>699.9465;452.4587;50688</TrackPoint>
+        <TrackPoint>699.9602;452.4599;51200</TrackPoint>
+        <TrackPoint>699.9749;453.4523;51712</TrackPoint>
+        <TrackPoint>699.9694;453.4478;52224</TrackPoint>
+        <TrackPoint>698.9779;452.4535;52736</TrackPoint>
+        <TrackPoint>698.9581;453.4575;53248</TrackPoint>
+        <TrackPoint>697.9625;453.4564;53760</TrackPoint>
+        <TrackPoint>696.9427;453.4632;54272</TrackPoint>
+        <TrackPoint>694.9755;453.4597;54784</TrackPoint>
+        <TrackPoint>693.9573;453.4658;55296</TrackPoint>
+        <TrackPoint>691.9781;453.4662;55808</TrackPoint>
+        <TrackPoint>690.9821;453.4681;56320</TrackPoint>
+        <TrackPoint>689.985;453.4706;56832</TrackPoint>
+        <TrackPoint>688.9817;453.4729;57344</TrackPoint>
+        <TrackPoint>687.9996;453.4698;57856</TrackPoint>
+        <TrackPoint>687.0321;452.4741;58368</TrackPoint>
+        <TrackPoint>686.0226;453.4765;58880</TrackPoint>
+        <TrackPoint>685.04;453.4748;59392</TrackPoint>
+        <TrackPoint>684.0392;453.472;59904</TrackPoint>
+        <TrackPoint>683.0517;453.4711;60416</TrackPoint>
+        <TrackPoint>682.0696;453.4669;60928</TrackPoint>
+        <TrackPoint>681.0637;453.4684;61440</TrackPoint>
+        <TrackPoint>679.0543;453.4734;61952</TrackPoint>
+        <TrackPoint>676.0625;453.4787;62464</TrackPoint>
+        <TrackPoint>673.0994;452.4769;62976</TrackPoint>
+        <TrackPoint>672.0978;452.4827;63488</TrackPoint>
+        <TrackPoint>671.1061;453.478;64000</TrackPoint>
+        <TrackPoint>670.062;453.4798;64512</TrackPoint>
+        <TrackPoint>668.0736;453.4793;65024</TrackPoint>
+        <TrackPoint>666.0991;454.4825;65536</TrackPoint>
+        <TrackPoint>663.0586;453.4873;66048</TrackPoint>
+        <TrackPoint>660.054;454.4881;66560</TrackPoint>
+        <TrackPoint>657.0723;455.4869;67072</TrackPoint>
+        <TrackPoint>654.0813;456.4831;67584</TrackPoint>
+        <TrackPoint>651.0802;456.4848;68096</TrackPoint>
+        <TrackPoint>649.0432;456.4831;68608</TrackPoint>
+        <TrackPoint>646.0554;458.4796;69120</TrackPoint>
+        <TrackPoint>643.034;457.4793;69632</TrackPoint>
+        <TrackPoint>640.0461;459.4745;70144</TrackPoint>
+        <TrackPoint>638.0546;459.4775;70656</TrackPoint>
+        <TrackPoint>635.0563;461.4731;71168</TrackPoint>
+        <TrackPoint>633.0674;461.4703;71680</TrackPoint>
+        <TrackPoint>631.0798;462.4683;72192</TrackPoint>
+        <TrackPoint>629.0848;462.469;72704</TrackPoint>
+        <TrackPoint>627.0814;463.468;73216</TrackPoint>
+        <TrackPoint>624.0842;462.4748;73728</TrackPoint>
+        <TrackPoint>626.8182;464.423;74240</TrackPoint>
+        <TrackPoint>623.863;467.3116;74752</TrackPoint>
+        <TrackPoint>621.8625;464.5251;75264</TrackPoint>
+        <TrackPoint>619.8517;463.6288;75776</TrackPoint>
+        <TrackPoint>617.8455;464.6255;76288</TrackPoint>
+        <TrackPoint>614.8472;465.6247;76800</TrackPoint>
+        <TrackPoint>612.8502;466.6262;77312</TrackPoint>
+        <TrackPoint>610.8466;467.6219;77824</TrackPoint>
+        <TrackPoint>607.8515;468.6252;78336</TrackPoint>
+        <TrackPoint>605.8551;469.6287;78848</TrackPoint>
+        <TrackPoint>603.8619;470.6334;79360</TrackPoint>
+        <TrackPoint>602.8583;471.6318;79872</TrackPoint>
+        <TrackPoint>600.8574;472.6308;80384</TrackPoint>
+        <TrackPoint>597.8615;473.6355;80896</TrackPoint>
+        <TrackPoint>595.8649;474.6369;81408</TrackPoint>
+        <TrackPoint>594.8598;475.6342;81920</TrackPoint>
+        <TrackPoint>593.8533;476.6305;82432</TrackPoint>
+        <TrackPoint>591.8575;477.6266;82944</TrackPoint>
+        <TrackPoint>590.8647;477.635;83456</TrackPoint>
+        <TrackPoint>589.8697;478.6392;83968</TrackPoint>
+        <TrackPoint>589.8655;479.6327;84480</TrackPoint>
+        <TrackPoint>588.8668;479.6324;84992</TrackPoint>
+        <TrackPoint>588.8658;479.6388;85504</TrackPoint>
+        <TrackPoint>587.8673;480.6373;86016</TrackPoint>
+        <TrackPoint>587.8654;480.6408;86528</TrackPoint>
+        <TrackPoint>587.8615;480.6503;87040</TrackPoint>
+        <TrackPoint>586.8672;481.6463;87552</TrackPoint>
+        <TrackPoint>586.8724;481.6424;88064</TrackPoint>
+        <TrackPoint>586.8771;481.6414;88576</TrackPoint>
+        <TrackPoint>586.8802;481.6405;89088</TrackPoint>
+        <TrackPoint>586.8851;481.642;89600</TrackPoint>
+        <TrackPoint>586.8893;481.6456;90112</TrackPoint>
+        <TrackPoint>586.8954;481.6491;90624</TrackPoint>
+        <TrackPoint>586.9022;481.6534;91136</TrackPoint>
+        <TrackPoint>587.9048;481.6577;91648</TrackPoint>
+        <TrackPoint>588.904;481.6588;92160</TrackPoint>
+        <TrackPoint>589.9001;481.6595;92672</TrackPoint>
+        <TrackPoint>590.8949;481.6595;93184</TrackPoint>
+        <TrackPoint>591.887;481.6565;93696</TrackPoint>
+        <TrackPoint>592.8831;480.6627;94208</TrackPoint>
+        <TrackPoint>593.8879;480.6617;94720</TrackPoint>
+        <TrackPoint>595.8856;479.6781;95232</TrackPoint>
+        <TrackPoint>596.8928;479.682;95744</TrackPoint>
+        <TrackPoint>598.8936;478.6839;96256</TrackPoint>
+        <TrackPoint>600.8913;477.6936;96768</TrackPoint>
+        <TrackPoint>602.8868;477.6885;97280</TrackPoint>
+        <TrackPoint>604.8885;476.6866;97792</TrackPoint>
+        <TrackPoint>607.8843;475.6844;98304</TrackPoint>
+        <TrackPoint>609.885;475.6798;98816</TrackPoint>
+        <TrackPoint>612.8873;473.6847;99328</TrackPoint>
+        <TrackPoint>614.8904;473.6841;99840</TrackPoint>
+        <TrackPoint>617.8904;471.6887;100352</TrackPoint>
+        <TrackPoint>620.8899;470.6923;100864</TrackPoint>
+        <TrackPoint>622.8934;470.6901;101376</TrackPoint>
+        <TrackPoint>630.4278;466.2102;101888</TrackPoint>
+        <TrackPoint>634.7464;469.5703;102400</TrackPoint>
+        <TrackPoint>640.6412;469.3044;102912</TrackPoint>
+        <TrackPoint>645.6432;467.3048;103424</TrackPoint>
+        <TrackPoint>654.6379;460.3037;103936</TrackPoint>
+        <TrackPoint>661.6409;457.3036;104448</TrackPoint>
+        <TrackPoint>668.6453;456.3049;104960</TrackPoint>
+        <TrackPoint>676.6107;455.301;105472</TrackPoint>
+        <TrackPoint>683.6179;454.2998;105984</TrackPoint>
+        <TrackPoint>691.6448;456.2981;106496</TrackPoint>
+        <TrackPoint>695.6685;454.2981;107008</TrackPoint>
+        <TrackPoint>696.6329;455.2958;107520</TrackPoint>
+        <TrackPoint>694.6434;454.3026;108032</TrackPoint>
+        <TrackPoint>693.6636;455.2976;108544</TrackPoint>
+        <TrackPoint>693.6869;455.2926;109056</TrackPoint>
+        <TrackPoint>693.71;455.2877;109568</TrackPoint>
+        <TrackPoint>693.7296;455.2829;110080</TrackPoint>
+        <TrackPoint>693.705;455.288;110592</TrackPoint>
+        <TrackPoint>693.6733;456.2834;111104</TrackPoint>
+        <TrackPoint>692.6991;455.2831;111616</TrackPoint>
+        <TrackPoint>692.7191;455.2832;112128</TrackPoint>
+        <TrackPoint>692.7391;455.2833;112640</TrackPoint>
+        <TrackPoint>692.7501;455.2858;113152</TrackPoint>
+        <TrackPoint>692.7606;455.2887;113664</TrackPoint>
+        <TrackPoint>692.7689;455.2927;114176</TrackPoint>
+        <TrackPoint>692.7765;455.2969;114688</TrackPoint>
+        <TrackPoint>692.7724;455.3047;115200</TrackPoint>
+        <TrackPoint>692.761;456.2996;115712</TrackPoint>
+        <TrackPoint>692.7484;456.2948;116224</TrackPoint>
+        <TrackPoint>692.724;456.2906;116736</TrackPoint>
+        <TrackPoint>692.6946;456.2869;117248</TrackPoint>
+        <TrackPoint>692.6586;456.2852;117760</TrackPoint>
+        <TrackPoint>692.6219;456.2826;118272</TrackPoint>
+        <TrackPoint>692.5854;456.2798;118784</TrackPoint>
+        <TrackPoint>692.5499;456.2762;119296</TrackPoint>
+        <TrackPoint>692.5144;456.2716;119808</TrackPoint>
+        <TrackPoint>692.4791;456.2682;120320</TrackPoint>
+        <TrackPoint>692.4365;455.2777;120832</TrackPoint>
+        <TrackPoint>692.3921;455.2882;121344</TrackPoint>
+        <TrackPoint>692.3651;456.2825;121856</TrackPoint>
+        <TrackPoint>691.3907;455.2783;122368</TrackPoint>
+        <TrackPoint>691.4047;455.2725;122880</TrackPoint>
+        <TrackPoint>691.3835;455.2733;123392</TrackPoint>
+        <TrackPoint>690.3964;455.2708;123904</TrackPoint>
+        <TrackPoint>689.3738;455.2692;124416</TrackPoint>
+        <TrackPoint>687.38;455.2715;124928</TrackPoint>
+        <TrackPoint>686.3168;455.2826;125440</TrackPoint>
+        <TrackPoint>684.2626;455.2784;125952</TrackPoint>
+        <TrackPoint>683.2214;455.2794;126464</TrackPoint>
+        <TrackPoint>682.1843;455.286;126976</TrackPoint>
+        <TrackPoint>681.1497;456.284;127488</TrackPoint>
+        <TrackPoint>679.191;457.2802;128000</TrackPoint>
+        <TrackPoint>677.2107;456.2876;128512</TrackPoint>
+        <TrackPoint>676.2184;457.285;129024</TrackPoint>
+        <TrackPoint>675.1916;458.2804;129536</TrackPoint>
+        <TrackPoint>674.1727;458.2777;130048</TrackPoint>
+        <TrackPoint>672.1713;460.2724;130560</TrackPoint>
+        <TrackPoint>671.1617;460.27;131072</TrackPoint>
+        <TrackPoint>668.1752;460.2686;131584</TrackPoint>
+        <TrackPoint>667.1771;460.2695;132096</TrackPoint>
+        <TrackPoint>665.1876;461.2728;132608</TrackPoint>
+        <TrackPoint>664.1768;462.2709;133120</TrackPoint>
+        <TrackPoint>662.1833;463.2758;133632</TrackPoint>
+        <TrackPoint>660.1859;465.2782;134144</TrackPoint>
+        <TrackPoint>657.1829;468.2743;134656</TrackPoint>
+        <TrackPoint>655.1774;467.2797;135168</TrackPoint>
+        <TrackPoint>653.1804;468.2826;135680</TrackPoint>
+        <TrackPoint>650.1846;471.2842;136192</TrackPoint>
+        <TrackPoint>650.1815;471.2844;136704</TrackPoint>
+        <TrackPoint>648.1765;473.2835;137216</TrackPoint>
+        <TrackPoint>646.174;475.2805;137728</TrackPoint>
+        <TrackPoint>645.1727;476.2798;138240</TrackPoint>
+        <TrackPoint>644.1733;477.2783;138752</TrackPoint>
+        <TrackPoint>644.1698;477.2779;139264</TrackPoint>
+        <TrackPoint>643.1717;477.2837;139776</TrackPoint>
+        <TrackPoint>642.1799;478.2851;140288</TrackPoint>
+        <TrackPoint>642.186;478.2864;140800</TrackPoint>
+        <TrackPoint>641.1865;477.2979;141312</TrackPoint>
+        <TrackPoint>641.1899;478.3052;141824</TrackPoint>
+        <TrackPoint>641.1879;479.3015;142336</TrackPoint>
+        <TrackPoint>641.1957;479.3165;142848</TrackPoint>
+        <TrackPoint>641.2007;480.3175;143360</TrackPoint>
+        <TrackPoint>641.2072;480.3306;143872</TrackPoint>
+        <TrackPoint>641.2162;481.33;144384</TrackPoint>
+        <TrackPoint>642.208;481.3353;144896</TrackPoint>
+        <TrackPoint>642.1987;481.3472;145408</TrackPoint>
+        <TrackPoint>642.1964;481.3614;145920</TrackPoint>
+        <TrackPoint>642.1915;482.3563;146432</TrackPoint>
+        <TrackPoint>642.1938;481.3698;146944</TrackPoint>
+        <TrackPoint>642.1988;482.3649;147456</TrackPoint>
+        <TrackPoint>642.2043;482.3603;147968</TrackPoint>
+        <TrackPoint>643.1987;482.3568;148480</TrackPoint>
+        <TrackPoint>643.1945;481.3675;148992</TrackPoint>
+        <TrackPoint>643.1904;481.3782;149504</TrackPoint>
+        <TrackPoint>643.1863;481.3889;150016</TrackPoint>
+        <TrackPoint>643.1829;481.3991;150528</TrackPoint>
+        <TrackPoint>643.1786;481.4049;151040</TrackPoint>
+        <TrackPoint>643.1747;481.4084;151552</TrackPoint>
+        <TrackPoint>643.1711;481.4117;152064</TrackPoint>
+        <TrackPoint>643.1677;481.4148;152576</TrackPoint>
+        <TrackPoint>643.1649;481.4169;153088</TrackPoint>
+        <TrackPoint>643.1622;481.4191;153600</TrackPoint>
+        <TrackPoint>643.1614;481.4189;154112</TrackPoint>
+        <TrackPoint>643.1634;481.4167;154624</TrackPoint>
+        <TrackPoint>643.1647;481.4136;155136</TrackPoint>
+        <TrackPoint>643.167;481.4083;155648</TrackPoint>
+        <TrackPoint>643.1705;480.4196;156160</TrackPoint>
+        <TrackPoint>643.174;480.4309;156672</TrackPoint>
+        <TrackPoint>643.1818;480.4322;157184</TrackPoint>
+        <TrackPoint>644.1843;479.4474;157696</TrackPoint>
+        <TrackPoint>644.192;479.4456;158208</TrackPoint>
+        <TrackPoint>645.1828;478.4545;158720</TrackPoint>
+        <TrackPoint>645.1776;477.4657;159232</TrackPoint>
+        <TrackPoint>645.1717;477.463;159744</TrackPoint>
+        <TrackPoint>645.1701;476.46;160256</TrackPoint>
+        <TrackPoint>645.1765;475.4589;160768</TrackPoint>
+        <TrackPoint>646.1693;474.4612;161280</TrackPoint>
+        <TrackPoint>646.1614;474.4572;161792</TrackPoint>
+        <TrackPoint>646.1651;473.4607;162304</TrackPoint>
+        <TrackPoint>647.1646;472.4637;162816</TrackPoint>
+        <TrackPoint>648.1608;471.4623;163328</TrackPoint>
+        <TrackPoint>649.1606;470.4639;163840</TrackPoint>
+        <TrackPoint>650.1599;470.4578;164352</TrackPoint>
+        <TrackPoint>658.9039;465.3916;164864</TrackPoint>
+        <TrackPoint>660.8519;466.0721;165376</TrackPoint>
+        <TrackPoint>662.8542;465.0689;165888</TrackPoint>
+        <TrackPoint>666.8491;463.0656;166400</TrackPoint>
+        <TrackPoint>671.8463;458.0648;166912</TrackPoint>
+        <TrackPoint>675.8455;455.0658;167424</TrackPoint>
+        <TrackPoint>679.8313;454.067;167936</TrackPoint>
+        <TrackPoint>683.8237;455.0673;168448</TrackPoint>
+        <TrackPoint>687.8286;455.0647;168960</TrackPoint>
+        <TrackPoint>689.8441;457.0642;169472</TrackPoint>
+        <TrackPoint>689.8682;456.0614;169984</TrackPoint>
+        <TrackPoint>689.8896;455.0667;170496</TrackPoint>
+        <TrackPoint>690.8764;457.063;171008</TrackPoint>
+        <TrackPoint>690.8617;457.0595;171520</TrackPoint>
+        <TrackPoint>690.8494;457.0556;172032</TrackPoint>
+        <TrackPoint>691.8278;457.0521;172544</TrackPoint>
+        <TrackPoint>692.8263;456.0538;173056</TrackPoint>
+        <TrackPoint>693.8083;457.0517;173568</TrackPoint>
+        <TrackPoint>693.7964;456.0571;174080</TrackPoint>
+        <TrackPoint>693.7839;456.0629;174592</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="Knee">
+        <SpacePosition>675.2633;402.2574</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;102;255;102</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>1</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Dash;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="252f7f31-74f9-4f15-9ff2-96960253417b" name="elbow">
+      <TimePosition>512</TimePosition>
+      <Visible>0</Visible>
+      <Invisible>-1</Invisible>
+      <ExtraData>Clock</ExtraData>
+      <Marker>Circle</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>142;213</SearchWindow>
+        <BlockWindow>40;39</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="341">
+        <TrackPoint>669.9349;255.2811;512</TrackPoint>
+        <TrackPoint>669.9357;254.2817;1024</TrackPoint>
+        <TrackPoint>667.9311;251.2795;1536</TrackPoint>
+        <TrackPoint>662.2065;251.9702;2048</TrackPoint>
+        <TrackPoint>657.4212;252.8108;2560</TrackPoint>
+        <TrackPoint>654.424;251.8146;3072</TrackPoint>
+        <TrackPoint>649.4227;252.8127;3584</TrackPoint>
+        <TrackPoint>643.4193;254.8037;4096</TrackPoint>
+        <TrackPoint>643.3855;255.4937;4608</TrackPoint>
+        <TrackPoint>641.388;254.4946;5120</TrackPoint>
+        <TrackPoint>638.545;257.3283;5632</TrackPoint>
+        <TrackPoint>639.5424;256.3777;6144</TrackPoint>
+        <TrackPoint>635.7511;258.2541;6656</TrackPoint>
+        <TrackPoint>630.0707;258.2437;7168</TrackPoint>
+        <TrackPoint>631.9673;262.0558;7680</TrackPoint>
+        <TrackPoint>630.9702;263.0383;8192</TrackPoint>
+        <TrackPoint>629.9716;265.0248;8704</TrackPoint>
+        <TrackPoint>630.9716;266.0323;9216</TrackPoint>
+        <TrackPoint>627.1295;269.9756;9728</TrackPoint>
+        <TrackPoint>620.4495;268.2203;10240</TrackPoint>
+        <TrackPoint>623.395;275.0388;10752</TrackPoint>
+        <TrackPoint>619.7139;277.1129;11264</TrackPoint>
+        <TrackPoint>620.7137;277.1309;11776</TrackPoint>
+        <TrackPoint>616.5555;286.8872;12288</TrackPoint>
+        <TrackPoint>615.5558;289.8997;12800</TrackPoint>
+        <TrackPoint>613.5568;293.8855;13312</TrackPoint>
+        <TrackPoint>611.5564;298.8663;13824</TrackPoint>
+        <TrackPoint>609.5573;300.9122;14336</TrackPoint>
+        <TrackPoint>607.3991;303.9462;14848</TrackPoint>
+        <TrackPoint>607.3971;307.941;15360</TrackPoint>
+        <TrackPoint>605.3978;311.9372;15872</TrackPoint>
+        <TrackPoint>604.3969;315.9432;16384</TrackPoint>
+        <TrackPoint>602.3978;319.9579;16896</TrackPoint>
+        <TrackPoint>601.3981;323.976;17408</TrackPoint>
+        <TrackPoint>598.3994;327.9767;17920</TrackPoint>
+        <TrackPoint>598.3992;331.9722;18432</TrackPoint>
+        <TrackPoint>602.9199;336.8945;18944</TrackPoint>
+        <TrackPoint>599.9081;340.9;19456</TrackPoint>
+        <TrackPoint>599.8541;343.9453;19968</TrackPoint>
+        <TrackPoint>599.8611;347.9253;20480</TrackPoint>
+        <TrackPoint>599.861;350.9294;20992</TrackPoint>
+        <TrackPoint>598.8596;353.9323;21504</TrackPoint>
+        <TrackPoint>601.4866;356.8834;22016</TrackPoint>
+        <TrackPoint>605.2251;359.8541;22528</TrackPoint>
+        <TrackPoint>605.2201;362.8253;23040</TrackPoint>
+        <TrackPoint>605.2058;364.8194;23552</TrackPoint>
+        <TrackPoint>605.1915;366.8224;24064</TrackPoint>
+        <TrackPoint>605.1797;368.8039;24576</TrackPoint>
+        <TrackPoint>604.192;369.7994;25088</TrackPoint>
+        <TrackPoint>604.2037;370.7966;25600</TrackPoint>
+        <TrackPoint>604.2168;371.7863;26112</TrackPoint>
+        <TrackPoint>605.2025;372.7722;26624</TrackPoint>
+        <TrackPoint>604.2107;372.7724;27136</TrackPoint>
+        <TrackPoint>604.2125;372.7946;27648</TrackPoint>
+        <TrackPoint>604.2146;372.8157;28160</TrackPoint>
+        <TrackPoint>604.2181;372.834;28672</TrackPoint>
+        <TrackPoint>604.2258;372.8354;29184</TrackPoint>
+        <TrackPoint>605.2102;372.8299;29696</TrackPoint>
+        <TrackPoint>604.2165;371.8377;30208</TrackPoint>
+        <TrackPoint>604.2197;370.8619;30720</TrackPoint>
+        <TrackPoint>605.2095;370.8472;31232</TrackPoint>
+        <TrackPoint>605.1991;369.834;31744</TrackPoint>
+        <TrackPoint>605.1924;368.8117;32256</TrackPoint>
+        <TrackPoint>605.1807;366.8075;32768</TrackPoint>
+        <TrackPoint>605.1724;364.7915;33280</TrackPoint>
+        <TrackPoint>605.1602;361.7948;33792</TrackPoint>
+        <TrackPoint>605.171;358.7755;34304</TrackPoint>
+        <TrackPoint>605.1664;353.7873;34816</TrackPoint>
+        <TrackPoint>605.1561;348.794;35328</TrackPoint>
+        <TrackPoint>605.1577;343.7744;35840</TrackPoint>
+        <TrackPoint>600.9587;335.8341;36352</TrackPoint>
+        <TrackPoint>599.0136;326.8886;36864</TrackPoint>
+        <TrackPoint>599.0146;319.9099;37376</TrackPoint>
+        <TrackPoint>603.0136;313.915;37888</TrackPoint>
+        <TrackPoint>603.0145;307.9257;38400</TrackPoint>
+        <TrackPoint>610.0131;300.9218;38912</TrackPoint>
+        <TrackPoint>615.4802;295.1778;39424</TrackPoint>
+        <TrackPoint>620.1586;294.234;39936</TrackPoint>
+        <TrackPoint>625.1589;289.2321;40448</TrackPoint>
+        <TrackPoint>636.7305;279.6017;40960</TrackPoint>
+        <TrackPoint>644.3688;276.4605;41472</TrackPoint>
+        <TrackPoint>650.1454;273.6134;41984</TrackPoint>
+        <TrackPoint>666.2401;266.9862;42496</TrackPoint>
+        <TrackPoint>681.2385;263.9858;43008</TrackPoint>
+        <TrackPoint>695.4514;258.3462;43520</TrackPoint>
+        <TrackPoint>703.7228;260.8139;44032</TrackPoint>
+        <TrackPoint>712.7908;260.5475;44544</TrackPoint>
+        <TrackPoint>716.9399;263.8018;45056</TrackPoint>
+        <TrackPoint>725.7205;269.1625;45568</TrackPoint>
+        <TrackPoint>729.712;269.1616;46080</TrackPoint>
+        <TrackPoint>732.7017;268.1624;46592</TrackPoint>
+        <TrackPoint>733.6929;268.1629;47104</TrackPoint>
+        <TrackPoint>732.6974;267.1633;47616</TrackPoint>
+        <TrackPoint>731.7028;268.1629;48128</TrackPoint>
+        <TrackPoint>730.6943;271.1635;48640</TrackPoint>
+        <TrackPoint>728.7022;275.1636;49152</TrackPoint>
+        <TrackPoint>726.7087;278.1637;49664</TrackPoint>
+        <TrackPoint>725.7089;273.2286;50176</TrackPoint>
+        <TrackPoint>722.7546;271.5485;50688</TrackPoint>
+        <TrackPoint>720.783;274.5464;51200</TrackPoint>
+        <TrackPoint>718.8198;275.5459;51712</TrackPoint>
+        <TrackPoint>717.8089;275.546;52224</TrackPoint>
+        <TrackPoint>715.8129;274.547;52736</TrackPoint>
+        <TrackPoint>713.8311;276.5463;53248</TrackPoint>
+        <TrackPoint>712.8028;275.5461;53760</TrackPoint>
+        <TrackPoint>711.7014;270.7181;54272</TrackPoint>
+        <TrackPoint>708.7291;272.7178;54784</TrackPoint>
+        <TrackPoint>706.7299;270.7182;55296</TrackPoint>
+        <TrackPoint>703.7367;271.7178;55808</TrackPoint>
+        <TrackPoint>701.7174;268.7186;56320</TrackPoint>
+        <TrackPoint>699.6174;271.9311;56832</TrackPoint>
+        <TrackPoint>697.5081;269.6234;57344</TrackPoint>
+        <TrackPoint>694.496;267.6239;57856</TrackPoint>
+        <TrackPoint>690.4979;268.6255;58368</TrackPoint>
+        <TrackPoint>685.5037;271.6258;58880</TrackPoint>
+        <TrackPoint>681.3399;264.7435;59392</TrackPoint>
+        <TrackPoint>677.2321;267.5849;59904</TrackPoint>
+        <TrackPoint>672.2252;265.5831;60416</TrackPoint>
+        <TrackPoint>666.2269;263.5831;60928</TrackPoint>
+        <TrackPoint>663.2212;259.5798;61440</TrackPoint>
+        <TrackPoint>653.5842;257.5488;61952</TrackPoint>
+        <TrackPoint>647.5855;256.5503;62464</TrackPoint>
+        <TrackPoint>641.5834;255.5486;62976</TrackPoint>
+        <TrackPoint>640.5801;248.5454;63488</TrackPoint>
+        <TrackPoint>637.6249;252.0193;64000</TrackPoint>
+        <TrackPoint>635.623;246.0158;64512</TrackPoint>
+        <TrackPoint>634.6202;240.0121;65024</TrackPoint>
+        <TrackPoint>622.6237;243.015;65536</TrackPoint>
+        <TrackPoint>614.7104;240.9636;66048</TrackPoint>
+        <TrackPoint>610.7169;238.9563;66560</TrackPoint>
+        <TrackPoint>607.7167;235.9634;67072</TrackPoint>
+        <TrackPoint>604.7118;233.9698;67584</TrackPoint>
+        <TrackPoint>597.925;236.7563;68096</TrackPoint>
+        <TrackPoint>595.8738;233.8703;68608</TrackPoint>
+        <TrackPoint>589.1967;236.7146;69120</TrackPoint>
+        <TrackPoint>592.0381;236.7169;69632</TrackPoint>
+        <TrackPoint>589.1479;239.5995;70144</TrackPoint>
+        <TrackPoint>584.3056;239.6935;70656</TrackPoint>
+        <TrackPoint>583.3043;241.7072;71168</TrackPoint>
+        <TrackPoint>579.3088;244.7093;71680</TrackPoint>
+        <TrackPoint>578.309;247.7465;72192</TrackPoint>
+        <TrackPoint>575.3113;251.694;72704</TrackPoint>
+        <TrackPoint>574.3126;255.6309;73216</TrackPoint>
+        <TrackPoint>573.3134;258.6707;73728</TrackPoint>
+        <TrackPoint>571.3145;262.7133;74240</TrackPoint>
+        <TrackPoint>570.3132;266.6749;74752</TrackPoint>
+        <TrackPoint>567.314;270.6535;75264</TrackPoint>
+        <TrackPoint>562.3135;274.6794;75776</TrackPoint>
+        <TrackPoint>563.3146;279.6871;76288</TrackPoint>
+        <TrackPoint>562.3148;283.6838;76800</TrackPoint>
+        <TrackPoint>560.3145;287.694;77312</TrackPoint>
+        <TrackPoint>556.6757;297.3354;77824</TrackPoint>
+        <TrackPoint>552.5685;303.2982;78336</TrackPoint>
+        <TrackPoint>554.1442;303.3969;78848</TrackPoint>
+        <TrackPoint>548.1458;305.3821;79360</TrackPoint>
+        <TrackPoint>549.143;310.3599;79872</TrackPoint>
+        <TrackPoint>548.1461;314.3513;80384</TrackPoint>
+        <TrackPoint>547.1445;319.3576;80896</TrackPoint>
+        <TrackPoint>545.1459;324.3441;81408</TrackPoint>
+        <TrackPoint>545.1433;328.3443;81920</TrackPoint>
+        <TrackPoint>542.1458;333.3351;82432</TrackPoint>
+        <TrackPoint>545.4949;340.0643;82944</TrackPoint>
+        <TrackPoint>544.485;343.0625;83456</TrackPoint>
+        <TrackPoint>544.4752;346.0605;83968</TrackPoint>
+        <TrackPoint>543.4715;349.0726;84480</TrackPoint>
+        <TrackPoint>543.4607;351.0805;84992</TrackPoint>
+        <TrackPoint>542.459;354.0991;85504</TrackPoint>
+        <TrackPoint>542.4553;357.0895;86016</TrackPoint>
+        <TrackPoint>541.4569;359.1024;86528</TrackPoint>
+        <TrackPoint>541.4551;361.1206;87040</TrackPoint>
+        <TrackPoint>541.4484;363.1418;87552</TrackPoint>
+        <TrackPoint>541.4509;365.1389;88064</TrackPoint>
+        <TrackPoint>542.4467;367.1201;88576</TrackPoint>
+        <TrackPoint>541.4467;367.1304;89088</TrackPoint>
+        <TrackPoint>542.441;368.1324;89600</TrackPoint>
+        <TrackPoint>542.4329;368.1542;90112</TrackPoint>
+        <TrackPoint>542.4288;368.1743;90624</TrackPoint>
+        <TrackPoint>542.4318;368.1782;91136</TrackPoint>
+        <TrackPoint>543.4393;368.1519;91648</TrackPoint>
+        <TrackPoint>544.4388;367.1491;92160</TrackPoint>
+        <TrackPoint>544.4457;366.1541;92672</TrackPoint>
+        <TrackPoint>546.4412;365.1568;93184</TrackPoint>
+        <TrackPoint>546.4396;363.1699;93696</TrackPoint>
+        <TrackPoint>548.4337;362.1545;94208</TrackPoint>
+        <TrackPoint>548.4397;359.1647;94720</TrackPoint>
+        <TrackPoint>550.4424;357.1387;95232</TrackPoint>
+        <TrackPoint>551.4481;353.1306;95744</TrackPoint>
+        <TrackPoint>552.4581;348.1469;96256</TrackPoint>
+        <TrackPoint>555.4529;344.1542;96768</TrackPoint>
+        <TrackPoint>553.7186;341.0369;97280</TrackPoint>
+        <TrackPoint>558.9825;335.0807;97792</TrackPoint>
+        <TrackPoint>560.0357;326.12;98304</TrackPoint>
+        <TrackPoint>559.1957;320.9771;98816</TrackPoint>
+        <TrackPoint>562.196;313.9848;99328</TrackPoint>
+        <TrackPoint>567.1974;307.9751;99840</TrackPoint>
+        <TrackPoint>570.199;300.9672;100352</TrackPoint>
+        <TrackPoint>572.2006;293.9568;100864</TrackPoint>
+        <TrackPoint>580.1998;286.9727;101376</TrackPoint>
+        <TrackPoint>579.2009;283.9723;101888</TrackPoint>
+        <TrackPoint>582.2028;280.9785;102400</TrackPoint>
+        <TrackPoint>591.2031;275.9856;102912</TrackPoint>
+        <TrackPoint>597.9872;269.341;103424</TrackPoint>
+        <TrackPoint>614.0408;267.0041;103936</TrackPoint>
+        <TrackPoint>622.8757;266.0137;104448</TrackPoint>
+        <TrackPoint>636.7103;259.3189;104960</TrackPoint>
+        <TrackPoint>646.7;259.3066;105472</TrackPoint>
+        <TrackPoint>657.7014;259.3037;105984</TrackPoint>
+        <TrackPoint>671.701;262.3044;106496</TrackPoint>
+        <TrackPoint>684.7059;261.3055;107008</TrackPoint>
+        <TrackPoint>697.6041;272.2938;107520</TrackPoint>
+        <TrackPoint>707.5531;277.3353;108032</TrackPoint>
+        <TrackPoint>717.2394;279.9511;108544</TrackPoint>
+        <TrackPoint>722.1789;281.3664;109056</TrackPoint>
+        <TrackPoint>730.0132;270.8988;109568</TrackPoint>
+        <TrackPoint>731.0623;266.0049;110080</TrackPoint>
+        <TrackPoint>734.8989;271.6326;110592</TrackPoint>
+        <TrackPoint>729.2113;270.6873;111104</TrackPoint>
+        <TrackPoint>731.0529;270.6887;111616</TrackPoint>
+        <TrackPoint>730.0565;271.7952;112128</TrackPoint>
+        <TrackPoint>727.1128;272.7936;112640</TrackPoint>
+        <TrackPoint>727.9431;273.7421;113152</TrackPoint>
+        <TrackPoint>724.9506;273.7404;113664</TrackPoint>
+        <TrackPoint>722.0117;274.6872;114176</TrackPoint>
+        <TrackPoint>720.9955;270.0077;114688</TrackPoint>
+        <TrackPoint>719.9856;269.0107;115200</TrackPoint>
+        <TrackPoint>718.9883;269.0136;115712</TrackPoint>
+        <TrackPoint>718.9702;270.0144;116224</TrackPoint>
+        <TrackPoint>717.9877;269.0161;116736</TrackPoint>
+        <TrackPoint>718.0048;269.0179;117248</TrackPoint>
+        <TrackPoint>716.9984;270.019;117760</TrackPoint>
+        <TrackPoint>717.0106;270.0213;118272</TrackPoint>
+        <TrackPoint>715.9979;273.022;118784</TrackPoint>
+        <TrackPoint>715.9803;274.0231;119296</TrackPoint>
+        <TrackPoint>713.3767;271.367;119808</TrackPoint>
+        <TrackPoint>711.4279;269.366;120320</TrackPoint>
+        <TrackPoint>709.6593;268.7087;120832</TrackPoint>
+        <TrackPoint>702.8443;267.7076;121344</TrackPoint>
+        <TrackPoint>699.8328;267.7082;121856</TrackPoint>
+        <TrackPoint>700.1523;266.8031;122368</TrackPoint>
+        <TrackPoint>694.2845;264.1867;122880</TrackPoint>
+        <TrackPoint>692.593;261.186;123392</TrackPoint>
+        <TrackPoint>685.2096;265.725;123904</TrackPoint>
+        <TrackPoint>680.2133;264.7264;124416</TrackPoint>
+        <TrackPoint>677.2122;259.7263;124928</TrackPoint>
+        <TrackPoint>671.1373;263.6595;125440</TrackPoint>
+        <TrackPoint>666.1399;262.6608;125952</TrackPoint>
+        <TrackPoint>662.14;260.6614;126464</TrackPoint>
+        <TrackPoint>657.908;254.4307;126976</TrackPoint>
+        <TrackPoint>651.9959;254.5964;127488</TrackPoint>
+        <TrackPoint>654.4444;253.6555;128000</TrackPoint>
+        <TrackPoint>650.1486;252.7404;128512</TrackPoint>
+        <TrackPoint>649.1552;255.059;129024</TrackPoint>
+        <TrackPoint>638.3121;256.1386;129536</TrackPoint>
+        <TrackPoint>635.4712;255.3739;130048</TrackPoint>
+        <TrackPoint>634.4763;254.3621;130560</TrackPoint>
+        <TrackPoint>630.5463;258.0284;131072</TrackPoint>
+        <TrackPoint>630.537;257.9874;131584</TrackPoint>
+        <TrackPoint>625.6172;262.4635;132096</TrackPoint>
+        <TrackPoint>626.6208;262.4742;132608</TrackPoint>
+        <TrackPoint>618.3133;265.3753;133120</TrackPoint>
+        <TrackPoint>618.39;270.4612;133632</TrackPoint>
+        <TrackPoint>616.4686;274.4328;134144</TrackPoint>
+        <TrackPoint>613.0856;276.8015;134656</TrackPoint>
+        <TrackPoint>614.7018;278.6958;135168</TrackPoint>
+        <TrackPoint>611.7026;281.6673;135680</TrackPoint>
+        <TrackPoint>608.7032;285.6609;136192</TrackPoint>
+        <TrackPoint>607.7041;289.6618;136704</TrackPoint>
+        <TrackPoint>606.7038;293.6855;137216</TrackPoint>
+        <TrackPoint>608.5511;300.0528;137728</TrackPoint>
+        <TrackPoint>607.3223;303.2585;138240</TrackPoint>
+        <TrackPoint>608.3219;307.0996;138752</TrackPoint>
+        <TrackPoint>606.4694;309.5005;139264</TrackPoint>
+        <TrackPoint>605.8509;314.7331;139776</TrackPoint>
+        <TrackPoint>605.8477;318.7551;140288</TrackPoint>
+        <TrackPoint>605.8438;323.7515;140800</TrackPoint>
+        <TrackPoint>605.8386;327.7488;141312</TrackPoint>
+        <TrackPoint>606.835;332.7471;141824</TrackPoint>
+        <TrackPoint>600.6783;338.4596;142336</TrackPoint>
+        <TrackPoint>598.6777;340.4649;142848</TrackPoint>
+        <TrackPoint>604.678;346.5464;143360</TrackPoint>
+        <TrackPoint>604.6793;350.5474;143872</TrackPoint>
+        <TrackPoint>606.6788;354.5527;144384</TrackPoint>
+        <TrackPoint>607.6746;358.5454;144896</TrackPoint>
+        <TrackPoint>606.6892;361.5192;145408</TrackPoint>
+        <TrackPoint>606.6776;364.4942;145920</TrackPoint>
+        <TrackPoint>606.6581;366.5083;146432</TrackPoint>
+        <TrackPoint>605.6675;368.5187;146944</TrackPoint>
+        <TrackPoint>605.675;370.5287;147456</TrackPoint>
+        <TrackPoint>606.6582;372.5339;147968</TrackPoint>
+        <TrackPoint>605.6656;373.5305;148480</TrackPoint>
+        <TrackPoint>606.6481;374.5458;148992</TrackPoint>
+        <TrackPoint>606.6403;375.5327;149504</TrackPoint>
+        <TrackPoint>606.6263;375.5394;150016</TrackPoint>
+        <TrackPoint>606.6099;375.5534;150528</TrackPoint>
+        <TrackPoint>606.5968;375.5592;151040</TrackPoint>
+        <TrackPoint>606.587;375.5541;151552</TrackPoint>
+        <TrackPoint>605.5967;374.5562;152064</TrackPoint>
+        <TrackPoint>606.5898;374.5449;152576</TrackPoint>
+        <TrackPoint>606.5772;373.55;153088</TrackPoint>
+        <TrackPoint>605.5814;372.5567;153600</TrackPoint>
+        <TrackPoint>606.5741;372.5463;154112</TrackPoint>
+        <TrackPoint>606.564;371.5475;154624</TrackPoint>
+        <TrackPoint>606.5521;370.5599;155136</TrackPoint>
+        <TrackPoint>606.5375;369.574;155648</TrackPoint>
+        <TrackPoint>606.5328;368.5644;156160</TrackPoint>
+        <TrackPoint>606.5263;366.5523;156672</TrackPoint>
+        <TrackPoint>606.5131;363.5501;157184</TrackPoint>
+        <TrackPoint>606.5284;360.5393;157696</TrackPoint>
+        <TrackPoint>606.5394;356.5139;158208</TrackPoint>
+        <TrackPoint>604.5405;350.5295;158720</TrackPoint>
+        <TrackPoint>604.5443;345.5358;159232</TrackPoint>
+        <TrackPoint>604.5548;340.5414;159744</TrackPoint>
+        <TrackPoint>600.4001;334.9265;160256</TrackPoint>
+        <TrackPoint>604.5557;328.5489;160768</TrackPoint>
+        <TrackPoint>597.7874;323.5441;161280</TrackPoint>
+        <TrackPoint>598.7869;318.5274;161792</TrackPoint>
+        <TrackPoint>601.7878;313.5107;162304</TrackPoint>
+        <TrackPoint>605.0209;309.5652;162816</TrackPoint>
+        <TrackPoint>606.8508;302.136;163328</TrackPoint>
+        <TrackPoint>607.9288;298.282;163840</TrackPoint>
+        <TrackPoint>615.621;296.6442;164352</TrackPoint>
+        <TrackPoint>621.162;289.8727;164864</TrackPoint>
+        <TrackPoint>624.2553;291.1101;165376</TrackPoint>
+        <TrackPoint>633.1797;283.9541;165888</TrackPoint>
+        <TrackPoint>638.175;283.9509;166400</TrackPoint>
+        <TrackPoint>651.9452;284.4896;166912</TrackPoint>
+        <TrackPoint>657.7144;288.9503;167424</TrackPoint>
+        <TrackPoint>670.7137;284.9491;167936</TrackPoint>
+        <TrackPoint>691.7164;276.9495;168448</TrackPoint>
+        <TrackPoint>699.1757;277.2572;168960</TrackPoint>
+        <TrackPoint>711.1675;274.2577;169472</TrackPoint>
+        <TrackPoint>719.2399;273.5657;169984</TrackPoint>
+        <TrackPoint>725.5524;266.7203;170496</TrackPoint>
+        <TrackPoint>730.5497;266.7223;171008</TrackPoint>
+        <TrackPoint>733.5414;266.725;171520</TrackPoint>
+        <TrackPoint>733.5405;265.7266;172032</TrackPoint>
+        <TrackPoint>732.546;265.7239;172544</TrackPoint>
+        <TrackPoint>731.5471;266.7206;173056</TrackPoint>
+        <TrackPoint>728.5457;265.7232;173568</TrackPoint>
+        <TrackPoint>725.5431;265.7259;174080</TrackPoint>
+        <TrackPoint>723.5331;266.7293;174592</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="elbow">
+        <SpacePosition>649.9349;205.2811</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;139;0;139</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>1</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Dash;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+  </Tracks>
+  <CoordinateSystem id="6e1d534e-276f-4ea2-93cb-b4dde4767f56" name="Coordinate system 1">
+    <Position>906.7576;76.17747</Position>
+    <Visible>false</Visible>
+    <ShowGrid>true</ShowGrid>
+    <ShowGraduations>true</ShowGraduations>
+    <DrawingStyle>
+      <Color Key="line color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </CoordinateSystem>
+  <TestGrid id="3ad5e486-9f74-4438-96fb-88ecf83dc783" name="Camera test grid 1">
+    <Visible>false</Visible>
+    <ShowHorizontalAxis>true</ShowHorizontalAxis>
+    <ShowVerticalAxis>true</ShowVerticalAxis>
+    <ShowFraming>true</ShowFraming>
+    <ShowThirds>false</ShowThirds>
+    <DrawingStyle>
+      <Color Key="color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </TestGrid>
+  <Trackability>
+    <TrackableDrawing id="9d0a69c4-7dbe-4664-a0f5-580db7fed28b">
+      <TrackablePoint key="o">
+        <TrackerParameters>
+          <SimilarityThreshold>0.5</SimilarityThreshold>
+          <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+          <RefinementNeighborhood>1</RefinementNeighborhood>
+          <SearchWindow>256;144</SearchWindow>
+          <BlockWindow>64;36</BlockWindow>
+        </TrackerParameters>
+        <NonTrackingValue>710.9811;193.239</NonTrackingValue>
+        <CurrentValue>701;198</CurrentValue>
+        <Timeline>
+          <Frame time="512" location="710.9811;193.239" source="Manual" />
+          <Frame time="1024" location="710;193" source="TemplateMatching" />
+          <Frame time="1536" location="710;193" source="TemplateMatching" />
+          <Frame time="2048" location="710;193" source="TemplateMatching" />
+          <Frame time="2560" location="710;194" source="TemplateMatching" />
+          <Frame time="3072" location="709;198" source="TemplateMatching" />
+          <Frame time="3584" location="708;202" source="TemplateMatching" />
+          <Frame time="4096" location="708;203" source="TemplateMatching" />
+          <Frame time="4608" location="707;206" source="TemplateMatching" />
+          <Frame time="5120" location="706;209" source="TemplateMatching" />
+          <Frame time="5632" location="706;212" source="TemplateMatching" />
+          <Frame time="6144" location="705;215" source="TemplateMatching" />
+          <Frame time="6656" location="705;219" source="TemplateMatching" />
+          <Frame time="7168" location="704;222" source="TemplateMatching" />
+          <Frame time="7680" location="703;226" source="TemplateMatching" />
+          <Frame time="8192" location="703;230" source="TemplateMatching" />
+          <Frame time="8704" location="701;232" source="TemplateMatching" />
+          <Frame time="9216" location="697;233" source="TemplateMatching" />
+          <Frame time="9728" location="688.8428;250.5975" source="Manual" />
+          <Frame time="10240" location="704;245" source="TemplateMatching" />
+          <Frame time="10752" location="704;250" source="TemplateMatching" />
+          <Frame time="11264" location="702;256" source="TemplateMatching" />
+          <Frame time="11776" location="701;261" source="TemplateMatching" />
+          <Frame time="12288" location="701;266" source="TemplateMatching" />
+          <Frame time="12800" location="700;271" source="TemplateMatching" />
+          <Frame time="13312" location="699;276" source="TemplateMatching" />
+          <Frame time="13824" location="699;282" source="TemplateMatching" />
+          <Frame time="14336" location="698;287" source="TemplateMatching" />
+          <Frame time="14848" location="697;293" source="TemplateMatching" />
+          <Frame time="15360" location="697;299" source="TemplateMatching" />
+          <Frame time="15872" location="696;305" source="TemplateMatching" />
+          <Frame time="16384" location="695;310" source="TemplateMatching" />
+          <Frame time="16896" location="695;316" source="TemplateMatching" />
+          <Frame time="17408" location="695;322" source="TemplateMatching" />
+          <Frame time="17920" location="695;327" source="TemplateMatching" />
+          <Frame time="18432" location="694;332" source="TemplateMatching" />
+          <Frame time="18944" location="693;337" source="TemplateMatching" />
+          <Frame time="19456" location="693;343" source="TemplateMatching" />
+          <Frame time="19968" location="693;344" source="TemplateMatching" />
+          <Frame time="20480" location="693;344" source="TemplateMatching" />
+          <Frame time="20992" location="693;345" source="TemplateMatching" />
+          <Frame time="21504" location="693;350" source="TemplateMatching" />
+          <Frame time="22016" location="690;355" source="TemplateMatching" />
+          <Frame time="22528" location="690;358" source="TemplateMatching" />
+          <Frame time="23040" location="689;361" source="TemplateMatching" />
+          <Frame time="23552" location="689;363" source="TemplateMatching" />
+          <Frame time="24064" location="689;366" source="TemplateMatching" />
+          <Frame time="24576" location="688;368" source="TemplateMatching" />
+          <Frame time="25088" location="688;369" source="TemplateMatching" />
+          <Frame time="25600" location="687;371" source="TemplateMatching" />
+          <Frame time="26112" location="687;372" source="TemplateMatching" />
+          <Frame time="26624" location="687;373" source="TemplateMatching" />
+          <Frame time="27136" location="686;374" source="TemplateMatching" />
+          <Frame time="27648" location="686;375" source="TemplateMatching" />
+          <Frame time="28160" location="686;375" source="TemplateMatching" />
+          <Frame time="28672" location="686;375" source="TemplateMatching" />
+          <Frame time="29184" location="686;375" source="TemplateMatching" />
+          <Frame time="29696" location="686;375" source="TemplateMatching" />
+          <Frame time="30208" location="686;375" source="TemplateMatching" />
+          <Frame time="30720" location="686;374" source="TemplateMatching" />
+          <Frame time="31232" location="686;373" source="TemplateMatching" />
+          <Frame time="31744" location="686;372" source="TemplateMatching" />
+          <Frame time="32256" location="686;370" source="TemplateMatching" />
+          <Frame time="32768" location="686;368" source="TemplateMatching" />
+          <Frame time="33280" location="686;366" source="TemplateMatching" />
+          <Frame time="33792" location="687;362" source="TemplateMatching" />
+          <Frame time="34304" location="688;357" source="TemplateMatching" />
+          <Frame time="34816" location="687;352" source="TemplateMatching" />
+          <Frame time="35328" location="686;345" source="TemplateMatching" />
+          <Frame time="35840" location="685;337" source="TemplateMatching" />
+          <Frame time="36352" location="685;328" source="TemplateMatching" />
+          <Frame time="36864" location="686;318" source="TemplateMatching" />
+          <Frame time="37376" location="687;307" source="TemplateMatching" />
+          <Frame time="37888" location="689;294" source="TemplateMatching" />
+          <Frame time="38400" location="691;281" source="TemplateMatching" />
+          <Frame time="38912" location="694;269" source="TemplateMatching" />
+          <Frame time="39424" location="693;264" source="TemplateMatching" />
+          <Frame time="39936" location="695;254" source="TemplateMatching" />
+          <Frame time="40448" location="696;244" source="TemplateMatching" />
+          <Frame time="40960" location="690.8553;231.478" source="Manual" />
+          <Frame time="41472" location="689;224" source="TemplateMatching" />
+          <Frame time="41984" location="691.8616;211.3522" source="Manual" />
+          <Frame time="42496" location="689;205" source="TemplateMatching" />
+          <Frame time="43008" location="695.8868;199.2767" source="Manual" />
+          <Frame time="43520" location="703.9371;194.2453" source="Manual" />
+          <Frame time="44032" location="706;194" source="TemplateMatching" />
+          <Frame time="44544" location="707;192" source="TemplateMatching" />
+          <Frame time="45056" location="708;191" source="TemplateMatching" />
+          <Frame time="45568" location="709;191" source="TemplateMatching" />
+          <Frame time="46080" location="710;191" source="TemplateMatching" />
+          <Frame time="46592" location="712;191" source="TemplateMatching" />
+          <Frame time="47104" location="713;191" source="TemplateMatching" />
+          <Frame time="47616" location="713;191" source="TemplateMatching" />
+          <Frame time="48128" location="714;191" source="TemplateMatching" />
+          <Frame time="48640" location="714;191" source="TemplateMatching" />
+          <Frame time="49152" location="714;191" source="TemplateMatching" />
+          <Frame time="49664" location="714;191" source="TemplateMatching" />
+          <Frame time="50176" location="714;192" source="TemplateMatching" />
+          <Frame time="50688" location="714;197" source="TemplateMatching" />
+          <Frame time="51200" location="714;197" source="TemplateMatching" />
+          <Frame time="51712" location="714;198" source="TemplateMatching" />
+          <Frame time="52224" location="714;198" source="TemplateMatching" />
+          <Frame time="52736" location="713;198" source="TemplateMatching" />
+          <Frame time="53248" location="713;199" source="TemplateMatching" />
+          <Frame time="53760" location="712;199" source="TemplateMatching" />
+          <Frame time="54272" location="711;199" source="TemplateMatching" />
+          <Frame time="54784" location="709;199" source="TemplateMatching" />
+          <Frame time="55296" location="707;199" source="TemplateMatching" />
+          <Frame time="55808" location="706;200" source="TemplateMatching" />
+          <Frame time="56320" location="704;200" source="TemplateMatching" />
+          <Frame time="56832" location="703;201" source="TemplateMatching" />
+          <Frame time="57344" location="701;200" source="TemplateMatching" />
+          <Frame time="57856" location="700;201" source="TemplateMatching" />
+          <Frame time="58368" location="699;201" source="TemplateMatching" />
+          <Frame time="58880" location="699;201" source="TemplateMatching" />
+          <Frame time="59392" location="697;201" source="TemplateMatching" />
+          <Frame time="59904" location="697;201" source="TemplateMatching" />
+          <Frame time="60416" location="696;201" source="TemplateMatching" />
+          <Frame time="60928" location="695;201" source="TemplateMatching" />
+          <Frame time="61440" location="695;201" source="TemplateMatching" />
+          <Frame time="61952" location="694;201" source="TemplateMatching" />
+          <Frame time="62464" location="693;199" source="TemplateMatching" />
+          <Frame time="62976" location="692;199" source="TemplateMatching" />
+          <Frame time="63488" location="691;199" source="TemplateMatching" />
+          <Frame time="64000" location="690;198" source="TemplateMatching" />
+          <Frame time="64512" location="688;198" source="TemplateMatching" />
+          <Frame time="65024" location="686;198" source="TemplateMatching" />
+          <Frame time="65536" location="684;198" source="TemplateMatching" />
+          <Frame time="66048" location="682;198" source="TemplateMatching" />
+          <Frame time="66560" location="680;198" source="TemplateMatching" />
+          <Frame time="67072" location="678;201" source="TemplateMatching" />
+          <Frame time="67584" location="675;202" source="TemplateMatching" />
+          <Frame time="68096" location="673;205" source="TemplateMatching" />
+          <Frame time="68608" location="671;206" source="TemplateMatching" />
+          <Frame time="69120" location="669;209" source="TemplateMatching" />
+          <Frame time="69632" location="667;212" source="TemplateMatching" />
+          <Frame time="70144" location="665;215" source="TemplateMatching" />
+          <Frame time="70656" location="663;219" source="TemplateMatching" />
+          <Frame time="71168" location="661;223" source="TemplateMatching" />
+          <Frame time="71680" location="660;228" source="TemplateMatching" />
+          <Frame time="72192" location="658;233" source="TemplateMatching" />
+          <Frame time="72704" location="657;238" source="TemplateMatching" />
+          <Frame time="73216" location="654;241" source="TemplateMatching" />
+          <Frame time="73728" location="652;241" source="TemplateMatching" />
+          <Frame time="74240" location="655;246" source="TemplateMatching" />
+          <Frame time="74752" location="651;265" source="TemplateMatching" />
+          <Frame time="75264" location="648;270" source="TemplateMatching" />
+          <Frame time="75776" location="647;277" source="TemplateMatching" />
+          <Frame time="76288" location="645;283" source="TemplateMatching" />
+          <Frame time="76800" location="643;288" source="TemplateMatching" />
+          <Frame time="77312" location="641;296" source="TemplateMatching" />
+          <Frame time="77824" location="640;302" source="TemplateMatching" />
+          <Frame time="78336" location="639;309" source="TemplateMatching" />
+          <Frame time="78848" location="638;315" source="TemplateMatching" />
+          <Frame time="79360" location="636;319" source="TemplateMatching" />
+          <Frame time="79872" location="637;314" source="TemplateMatching" />
+          <Frame time="80384" location="637;319" source="TemplateMatching" />
+          <Frame time="80896" location="633;338" source="TemplateMatching" />
+          <Frame time="81408" location="632;344" source="TemplateMatching" />
+          <Frame time="81920" location="630;348" source="TemplateMatching" />
+          <Frame time="82432" location="631;355" source="TemplateMatching" />
+          <Frame time="82944" location="632;359" source="TemplateMatching" />
+          <Frame time="83456" location="630;363" source="TemplateMatching" />
+          <Frame time="83968" location="629;368" source="TemplateMatching" />
+          <Frame time="84480" location="627;370" source="TemplateMatching" />
+          <Frame time="84992" location="627;374" source="TemplateMatching" />
+          <Frame time="85504" location="627;378" source="TemplateMatching" />
+          <Frame time="86016" location="626;380" source="TemplateMatching" />
+          <Frame time="86528" location="626;383" source="TemplateMatching" />
+          <Frame time="87040" location="626;385" source="TemplateMatching" />
+          <Frame time="87552" location="626;387" source="TemplateMatching" />
+          <Frame time="88064" location="626;389" source="TemplateMatching" />
+          <Frame time="88576" location="626;391" source="TemplateMatching" />
+          <Frame time="89088" location="626;391" source="TemplateMatching" />
+          <Frame time="89600" location="627;393" source="TemplateMatching" />
+          <Frame time="90112" location="627;393" source="TemplateMatching" />
+          <Frame time="90624" location="627;393" source="TemplateMatching" />
+          <Frame time="91136" location="627;393" source="TemplateMatching" />
+          <Frame time="91648" location="628;393" source="TemplateMatching" />
+          <Frame time="92160" location="629;393" source="TemplateMatching" />
+          <Frame time="92672" location="629;392" source="TemplateMatching" />
+          <Frame time="93184" location="631;391" source="TemplateMatching" />
+          <Frame time="93696" location="632;390" source="TemplateMatching" />
+          <Frame time="94208" location="633;388" source="TemplateMatching" />
+          <Frame time="94720" location="635;386" source="TemplateMatching" />
+          <Frame time="95232" location="635;382" source="TemplateMatching" />
+          <Frame time="95744" location="637;377" source="TemplateMatching" />
+          <Frame time="96256" location="638;372" source="TemplateMatching" />
+          <Frame time="96768" location="640;367" source="TemplateMatching" />
+          <Frame time="97280" location="642;360" source="TemplateMatching" />
+          <Frame time="97792" location="644;353" source="TemplateMatching" />
+          <Frame time="98304" location="644;342" source="TemplateMatching" />
+          <Frame time="98816" location="648;335" source="TemplateMatching" />
+          <Frame time="99328" location="650;324" source="TemplateMatching" />
+          <Frame time="99840" location="653;314" source="TemplateMatching" />
+          <Frame time="100352" location="656;304" source="TemplateMatching" />
+          <Frame time="100864" location="660;294" source="TemplateMatching" />
+          <Frame time="101376" location="665;284" source="TemplateMatching" />
+          <Frame time="101888" location="670;273" source="TemplateMatching" />
+          <Frame time="102400" location="674.1149;251.8512" source="Manual" />
+          <Frame time="102912" location="677.0498;240.1118" source="Manual" />
+          <Frame time="103424" location="678.0281;224.4592" source="Manual" />
+          <Frame time="103936" location="681.9412;211.7415" source="Manual" />
+          <Frame time="104448" location="687.8109;205.8718" source="Manual" />
+          <Frame time="104960" location="687.8109;200.0021" source="Manual" />
+          <Frame time="105472" location="692.7023;188.2627" source="Manual" />
+          <Frame time="105984" location="693.6806;186.3062" source="Manual" />
+          <Frame time="106496" location="695.6372;184.3496" source="Manual" />
+          <Frame time="107008" location="697.572;180.4375" source="Manual" />
+          <Frame time="107520" location="696.5938;180.4375" source="Manual" />
+          <Frame time="108032" location="702;199" source="TemplateMatching" />
+          <Frame time="108544" location="701;200" source="TemplateMatching" />
+          <Frame time="109056" location="701;200" source="TemplateMatching" />
+          <Frame time="109568" location="701;199" source="TemplateMatching" />
+          <Frame time="110080" location="707.3549;188.2638" source="Manual" />
+          <Frame time="110592" location="707.3549;192.1769" source="Manual" />
+          <Frame time="111104" location="702.4634;194.1335" source="Manual" />
+          <Frame time="111616" location="701;201" source="TemplateMatching" />
+          <Frame time="112128" location="701;202" source="TemplateMatching" />
+          <Frame time="112640" location="700;202" source="TemplateMatching" />
+          <Frame time="113152" location="700;202" source="TemplateMatching" />
+          <Frame time="113664" location="700;202" source="TemplateMatching" />
+          <Frame time="114176" location="700;202" source="TemplateMatching" />
+          <Frame time="114688" location="699;202" source="TemplateMatching" />
+          <Frame time="115200" location="699;202" source="TemplateMatching" />
+          <Frame time="115712" location="699;202" source="TemplateMatching" />
+          <Frame time="116224" location="699;200" source="TemplateMatching" />
+          <Frame time="116736" location="699;201" source="TemplateMatching" />
+          <Frame time="117248" location="699;201" source="TemplateMatching" />
+          <Frame time="117760" location="698;200" source="TemplateMatching" />
+          <Frame time="118272" location="698;200" source="TemplateMatching" />
+          <Frame time="118784" location="698;200" source="TemplateMatching" />
+          <Frame time="119296" location="698;200" source="TemplateMatching" />
+          <Frame time="119808" location="698;200" source="TemplateMatching" />
+          <Frame time="120320" location="699;199" source="TemplateMatching" />
+          <Frame time="120832" location="699;199" source="TemplateMatching" />
+          <Frame time="121344" location="699;199" source="TemplateMatching" />
+          <Frame time="121856" location="700;199" source="TemplateMatching" />
+          <Frame time="122368" location="700;199" source="TemplateMatching" />
+          <Frame time="122880" location="700;199" source="TemplateMatching" />
+          <Frame time="123392" location="701;199" source="TemplateMatching" />
+          <Frame time="123904" location="702;199" source="TemplateMatching" />
+          <Frame time="124416" location="703;199" source="TemplateMatching" />
+          <Frame time="124928" location="703;199" source="TemplateMatching" />
+          <Frame time="125440" location="704;199" source="TemplateMatching" />
+          <Frame time="125952" location="704;199" source="TemplateMatching" />
+          <Frame time="126464" location="705.3983;193.1552" source="Manual" />
+          <Frame time="126976" location="701.4852;195.1118" source="Manual" />
+          <Frame time="127488" location="704.42;196.09" source="Manual" />
+          <Frame time="128000" location="704;205" source="TemplateMatching" />
+          <Frame time="128512" location="704;206" source="TemplateMatching" />
+          <Frame time="129024" location="703.4417;200.0032" source="Manual" />
+          <Frame time="129536" location="702;211" source="TemplateMatching" />
+          <Frame time="130048" location="703.8109;209.4809" source="Manual" />
+          <Frame time="130560" location="700;217" source="TemplateMatching" />
+          <Frame time="131072" location="699;221" source="TemplateMatching" />
+          <Frame time="131584" location="698;225" source="TemplateMatching" />
+          <Frame time="132096" location="697;230" source="TemplateMatching" />
+          <Frame time="132608" location="697;236" source="TemplateMatching" />
+          <Frame time="133120" location="696;242" source="TemplateMatching" />
+          <Frame time="133632" location="696;242" source="TemplateMatching" />
+          <Frame time="134144" location="698;270" source="TemplateMatching" />
+          <Frame time="134656" location="693.0498;271.1128" source="Manual" />
+          <Frame time="135168" location="697;284" source="TemplateMatching" />
+          <Frame time="135680" location="694;286" source="TemplateMatching" />
+          <Frame time="136192" location="693;292" source="TemplateMatching" />
+          <Frame time="136704" location="693;299" source="TemplateMatching" />
+          <Frame time="137216" location="691.0932;297.5265" source="Manual" />
+          <Frame time="137728" location="690.1149;303.3962" source="Manual" />
+          <Frame time="138240" location="689.1366;311.2224" source="Manual" />
+          <Frame time="138752" location="689.1366;316.1139" source="Manual" />
+          <Frame time="139264" location="691.0932;322.9619" source="Manual" />
+          <Frame time="139776" location="691.0932;328.8315" source="Manual" />
+          <Frame time="140288" location="688.1583;333.723" source="Manual" />
+          <Frame time="140800" location="686.2018;342.5275" source="Manual" />
+          <Frame time="141312" location="689.8109;339.2421" source="Manual" />
+          <Frame time="141824" location="685.8978;342.1769" source="Manual" />
+          <Frame time="142336" location="685.8978;345.1118" source="Manual" />
+          <Frame time="142848" location="688.8326;359.786" source="Manual" />
+          <Frame time="143360" location="688.8326;359.786" source="Manual" />
+          <Frame time="143872" location="687.8544;361.7426" source="Manual" />
+          <Frame time="144384" location="685.8978;371.5254" source="Manual" />
+          <Frame time="144896" location="685.8978;372.5037" source="Manual" />
+          <Frame time="145408" location="686.876;375.4385" source="Manual" />
+          <Frame time="145920" location="687.8544;378.3734" source="Manual" />
+          <Frame time="146432" location="687.8544;379.3517" source="Manual" />
+          <Frame time="146944" location="684.9195;382.2866" source="Manual" />
+          <Frame time="147456" location="686.876;388.1563" source="Manual" />
+          <Frame time="147968" location="685.8978;387.178" source="Manual" />
+          <Frame time="148480" location="687.8544;385.2214" source="Manual" />
+          <Frame time="148992" location="689.8109;389.1345" source="Manual" />
+          <Frame time="149504" location="686.876;392.0694" source="Manual" />
+          <Frame time="150016" location="689.8109;391.0911" source="Manual" />
+          <Frame time="150528" location="687.8544;391.0911" source="Manual" />
+          <Frame time="151040" location="686.876;393.0477" source="Manual" />
+          <Frame time="151552" location="687.8544;393.0477" source="Manual" />
+          <Frame time="152064" location="688.8326;390.1128" source="Manual" />
+          <Frame time="152576" location="687.8544;387.178" source="Manual" />
+          <Frame time="153088" location="689.8109;389.1345" source="Manual" />
+          <Frame time="153600" location="689.8109;389.1345" source="Manual" />
+          <Frame time="154112" location="687.8544;387.178" source="Manual" />
+          <Frame time="154624" location="688.8326;390.1128" source="Manual" />
+          <Frame time="155136" location="687.8544;390.1128" source="Manual" />
+          <Frame time="155648" location="687.8544;386.1997" source="Manual" />
+          <Frame time="156160" location="687.8544;383.2648" source="Manual" />
+          <Frame time="156672" location="686.876;381.3083" source="Manual" />
+          <Frame time="157184" location="688.8326;380.33" source="Manual" />
+          <Frame time="157696" location="685.8978;374.4603" source="Manual" />
+          <Frame time="158208" location="686.876;366.634" source="Manual" />
+          <Frame time="158720" location="687.8544;358.8077" source="Manual" />
+          <Frame time="159232" location="688.8326;353.9163" source="Manual" />
+          <Frame time="159744" location="681.9846;348.0466" source="Manual" />
+          <Frame time="160256" location="681.9846;342.1769" source="Manual" />
+          <Frame time="160768" location="684.9195;333.3723" source="Manual" />
+          <Frame time="161280" location="685.8978;322.6112" source="Manual" />
+          <Frame time="161792" location="685.8978;314.7849" source="Manual" />
+          <Frame time="162304" location="687.8544;301.089" source="Manual" />
+          <Frame time="162816" location="687.8544;289.3496" source="Manual" />
+          <Frame time="163328" location="689.8109;277.6102" source="Manual" />
+          <Frame time="163840" location="689.8109;269.7839" source="Manual" />
+          <Frame time="164352" location="689.8109;259.0228" source="Manual" />
+          <Frame time="164864" location="693.2463;249.8729" source="Manual" />
+          <Frame time="165376" location="688.3549;240.09" source="Manual" />
+          <Frame time="165888" location="689.3331;229.3289" source="Manual" />
+          <Frame time="166400" location="690.3114;218.5678" source="Manual" />
+          <Frame time="166912" location="692.268;208.7849" source="Manual" />
+          <Frame time="167424" location="691.2897;204.8718" source="Manual" />
+          <Frame time="167936" location="689.3331;204.8718" source="Manual" />
+          <Frame time="168448" location="693.2463;195.089" source="Manual" />
+          <Frame time="168960" location="692.268;194.1107" source="Manual" />
+          <Frame time="169472" location="694.2246;189.2193" source="Manual" />
+          <Frame time="169984" location="699.116;189.2193" source="Manual" />
+          <Frame time="170496" location="702.0508;187.2627" source="Manual" />
+          <Frame time="171008" location="705;199" source="TemplateMatching" />
+          <Frame time="171520" location="703.0291;195.089" source="Manual" />
+          <Frame time="172032" location="704;199" source="TemplateMatching" />
+          <Frame time="172544" location="704;201" source="TemplateMatching" />
+          <Frame time="173056" location="703;200" source="TemplateMatching" />
+          <Frame time="173568" location="702;199" source="TemplateMatching" />
+          <Frame time="174080" location="702;201" source="TemplateMatching" />
+          <Frame time="174592" location="701;198" source="TemplateMatching" />
+          <Frame time="175104" location="701;198" source="ForcedClosest" />
+          <Frame time="175616" location="701;198" source="ForcedClosest" />
+          <Frame time="176128" location="701;198" source="ForcedClosest" />
+          <Frame time="176640" location="701;198" source="ForcedClosest" />
+        </Timeline>
+      </TrackablePoint>
+      <TrackablePoint key="a">
+        <TrackerParameters>
+          <SimilarityThreshold>0.5</SimilarityThreshold>
+          <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+          <RefinementNeighborhood>1</RefinementNeighborhood>
+          <SearchWindow>256;144</SearchWindow>
+          <BlockWindow>64;36</BlockWindow>
+        </TrackerParameters>
+        <NonTrackingValue>667.7107;260.6604</NonTrackingValue>
+        <CurrentValue>718.6816;274.33</CurrentValue>
+        <Timeline>
+          <Frame time="512" location="668.2659;260.634" source="Manual" />
+          <Frame time="1024" location="667;260" source="TemplateMatching" />
+          <Frame time="1536" location="662;259" source="TemplateMatching" />
+          <Frame time="2048" location="658;258" source="TemplateMatching" />
+          <Frame time="2560" location="657.6478;255.6289" source="Manual" />
+          <Frame time="3072" location="655.6352;253.6163" source="Manual" />
+          <Frame time="3584" location="649.5975;254.6226" source="Manual" />
+          <Frame time="4096" location="644.566;254.6226" source="Manual" />
+          <Frame time="4608" location="643.5598;256.6352" source="Manual" />
+          <Frame time="5120" location="641.5472;254.6226" source="Manual" />
+          <Frame time="5632" location="638.5283;258.6478" source="Manual" />
+          <Frame time="6144" location="639.5345;256.6352" source="Manual" />
+          <Frame time="6656" location="636.5157;259.6541" source="Manual" />
+          <Frame time="7168" location="630.478;260.6604" source="Manual" />
+          <Frame time="7680" location="630.478;262.6729" source="Manual" />
+          <Frame time="8192" location="629.4717;263.6792" source="Manual" />
+          <Frame time="8704" location="629.959;264.9795" source="Manual" />
+          <Frame time="9216" location="631.4843;265.6918" source="Manual" />
+          <Frame time="9728" location="625.4465;270.7233" source="Manual" />
+          <Frame time="10240" location="618.4025;267.7044" source="Manual" />
+          <Frame time="10752" location="622.4277;275.7547" source="Manual" />
+          <Frame time="11264" location="621.4214;278.7736" source="Manual" />
+          <Frame time="11776" location="620.4151;276.761" source="Manual" />
+          <Frame time="12288" location="616.3899;287.8302" source="Manual" />
+          <Frame time="12800" location="616.3899;289.8428" source="Manual" />
+          <Frame time="13312" location="615.3836;293.8679" source="Manual" />
+          <Frame time="13824" location="612.3647;298.8994" source="Manual" />
+          <Frame time="14336" location="609.3459;301.9182" source="Manual" />
+          <Frame time="14848" location="608.3396;305.9434" source="Manual" />
+          <Frame time="15360" location="609.3459;308.9622" source="Manual" />
+          <Frame time="15872" location="606.327;312.9874" source="Manual" />
+          <Frame time="16384" location="606.327;317.0126" source="Manual" />
+          <Frame time="16896" location="605;321" source="TemplateMatching" />
+          <Frame time="17408" location="605;325" source="TemplateMatching" />
+          <Frame time="17920" location="602;329" source="TemplateMatching" />
+          <Frame time="18432" location="603;333" source="TemplateMatching" />
+          <Frame time="18944" location="605;339" source="TemplateMatching" />
+          <Frame time="19456" location="603;343" source="TemplateMatching" />
+          <Frame time="19968" location="602;347" source="TemplateMatching" />
+          <Frame time="20480" location="599.283;348.2076" source="Manual" />
+          <Frame time="20992" location="599;351" source="TemplateMatching" />
+          <Frame time="21504" location="598;354" source="TemplateMatching" />
+          <Frame time="22016" location="599;358" source="TemplateMatching" />
+          <Frame time="22528" location="598;360" source="TemplateMatching" />
+          <Frame time="23040" location="598;363" source="TemplateMatching" />
+          <Frame time="23552" location="597;365" source="TemplateMatching" />
+          <Frame time="24064" location="595;366" source="TemplateMatching" />
+          <Frame time="24576" location="595;368" source="TemplateMatching" />
+          <Frame time="25088" location="594;369" source="TemplateMatching" />
+          <Frame time="25600" location="594;370" source="TemplateMatching" />
+          <Frame time="26112" location="594;371" source="TemplateMatching" />
+          <Frame time="26624" location="597.2704;370.3459" source="Manual" />
+          <Frame time="27136" location="598.2767;372.3585" source="Manual" />
+          <Frame time="27648" location="598;372" source="TemplateMatching" />
+          <Frame time="28160" location="598;372" source="TemplateMatching" />
+          <Frame time="28672" location="598;372" source="TemplateMatching" />
+          <Frame time="29184" location="598;372" source="TemplateMatching" />
+          <Frame time="29696" location="598;372" source="TemplateMatching" />
+          <Frame time="30208" location="598;371" source="TemplateMatching" />
+          <Frame time="30720" location="598;370" source="TemplateMatching" />
+          <Frame time="31232" location="598;370" source="TemplateMatching" />
+          <Frame time="31744" location="598;369" source="TemplateMatching" />
+          <Frame time="32256" location="598;368" source="TemplateMatching" />
+          <Frame time="32768" location="598;366" source="TemplateMatching" />
+          <Frame time="33280" location="599;364" source="TemplateMatching" />
+          <Frame time="33792" location="598;361" source="TemplateMatching" />
+          <Frame time="34304" location="598;357" source="TemplateMatching" />
+          <Frame time="34816" location="598;353" source="TemplateMatching" />
+          <Frame time="35328" location="598;348" source="TemplateMatching" />
+          <Frame time="35840" location="599;342" source="TemplateMatching" />
+          <Frame time="36352" location="600;336" source="TemplateMatching" />
+          <Frame time="36864" location="596.2642;327.0755" source="Manual" />
+          <Frame time="37376" location="595.2579;322.044" source="Manual" />
+          <Frame time="37888" location="599;316" source="TemplateMatching" />
+          <Frame time="38400" location="600;311" source="TemplateMatching" />
+          <Frame time="38912" location="607.3333;301.9182" source="Manual" />
+          <Frame time="39424" location="611.3585;295.8805" source="Manual" />
+          <Frame time="39936" location="615.3836;297.8931" source="Manual" />
+          <Frame time="40448" location="619.4088;294.8742" source="Manual" />
+          <Frame time="40960" location="635.5094;282.7987" source="Manual" />
+          <Frame time="41472" location="635;282" source="TemplateMatching" />
+          <Frame time="41984" location="650.6038;273.7421" source="Manual" />
+          <Frame time="42496" location="666.7044;266.6981" source="Manual" />
+          <Frame time="43008" location="680.7924;264.6855" source="Manual" />
+          <Frame time="43520" location="694.8805;259.6541" source="Manual" />
+          <Frame time="44032" location="703.9371;262.6729" source="Manual" />
+          <Frame time="44544" location="711.9874;260.6604" source="Manual" />
+          <Frame time="45056" location="717.0189;264.6855" source="Manual" />
+          <Frame time="45568" location="728.088;269.717" source="Manual" />
+          <Frame time="46080" location="732;270" source="TemplateMatching" />
+          <Frame time="46592" location="735;269" source="TemplateMatching" />
+          <Frame time="47104" location="736;269" source="TemplateMatching" />
+          <Frame time="47616" location="735;268" source="TemplateMatching" />
+          <Frame time="48128" location="734;269" source="TemplateMatching" />
+          <Frame time="48640" location="733;272" source="TemplateMatching" />
+          <Frame time="49152" location="731;275" source="TemplateMatching" />
+          <Frame time="49664" location="729;279" source="TemplateMatching" />
+          <Frame time="50176" location="728.088;274.7484" source="Manual" />
+          <Frame time="50688" location="724.0629;272.7358" source="Manual" />
+          <Frame time="51200" location="722;276" source="TemplateMatching" />
+          <Frame time="51712" location="719.0314;274.7484" source="Manual" />
+          <Frame time="52224" location="719.0314;277.7673" source="Manual" />
+          <Frame time="52736" location="715.0063;274.7484" source="Manual" />
+          <Frame time="53248" location="712.9937;275.7547" source="Manual" />
+          <Frame time="53760" location="711.9874;274.7484" source="Manual" />
+          <Frame time="54272" location="710.9811;270.7233" source="Manual" />
+          <Frame time="54784" location="707.9622;272.7358" source="Manual" />
+          <Frame time="55296" location="704.9434;270.7233" source="Manual" />
+          <Frame time="55808" location="702.9308;269.717" source="Manual" />
+          <Frame time="56320" location="702.9308;267.7044" source="Manual" />
+          <Frame time="56832" location="699.4905;272.1824" source="Manual" />
+          <Frame time="57344" location="697.7296;269.1635" source="Manual" />
+          <Frame time="57856" location="693.8742;267.7044" source="Manual" />
+          <Frame time="58368" location="689.8491;267.7044" source="Manual" />
+          <Frame time="58880" location="685.6541;271.4277" source="Manual" />
+          <Frame time="59392" location="680.8742;265.1384" source="Manual" />
+          <Frame time="59904" location="677.1006;267.6541" source="Manual" />
+          <Frame time="60416" location="672.3207;265.8931" source="Manual" />
+          <Frame time="60928" location="666.283;263.8805" source="Manual" />
+          <Frame time="61440" location="663.2642;259.6038" source="Manual" />
+          <Frame time="61952" location="654.2075;257.5912" source="Manual" />
+          <Frame time="62464" location="647.1635;256.0818" source="Manual" />
+          <Frame time="62976" location="641.1258;255.5786" source="Manual" />
+          <Frame time="63488" location="640.1195;249.0377" source="Manual" />
+          <Frame time="64000" location="638.1069;251.0503" source="Manual" />
+          <Frame time="64512" location="631.0629;249.0377" source="Manual" />
+          <Frame time="65024" location="625.0251;248.0314" source="Manual" />
+          <Frame time="65536" location="618.9874;246.0189" source="Manual" />
+          <Frame time="66048" location="612.6981;242.4969" source="Manual" />
+          <Frame time="66560" location="604.3962;242.2453" source="Manual" />
+          <Frame time="67072" location="602.1321;239.044" source="Manual" />
+          <Frame time="67584" location="599.1132;236.2767" source="Manual" />
+          <Frame time="68096" location="594.8365;237.5346" source="Manual" />
+          <Frame time="68608" location="592.8239;235.0189" source="Manual" />
+          <Frame time="69120" location="588.7988;236.5283" source="Manual" />
+          <Frame time="69632" location="591.0629;237.0314" source="Manual" />
+          <Frame time="70144" location="589.3019;240.0503" source="Manual" />
+          <Frame time="70656" location="584.7736;240.0503" source="Manual" />
+          <Frame time="71168" location="583.7736;242.1258" source="Manual" />
+          <Frame time="71680" location="579.3837;244.3899" source="Manual" />
+          <Frame time="72192" location="575.1069;248.1635" source="Manual" />
+          <Frame time="72704" location="567.0566;252.1887" source="Manual" />
+          <Frame time="73216" location="562.5283;255.7107" source="Manual" />
+          <Frame time="73728" location="559.2579;258.2264" source="Manual" />
+          <Frame time="74240" location="561.7736;259.7358" source="Manual" />
+          <Frame time="74752" location="558.2516;265.2704" source="Manual" />
+          <Frame time="75264" location="562.0251;271.3082" source="Manual" />
+          <Frame time="75776" location="558;274.327" source="Manual" />
+          <Frame time="76288" location="557.4968;280.3648" source="Manual" />
+          <Frame time="76800" location="552.9686;283.6352" source="Manual" />
+          <Frame time="77312" location="554.2956;287.1572" source="Manual" />
+          <Frame time="77824" location="545.239;296.4654" source="Manual" />
+          <Frame time="78336" location="541.2138;303.2579" source="Manual" />
+          <Frame time="78848" location="546.2453;304.0126" source="Manual" />
+          <Frame time="79360" location="541.2138;305.7736" source="Manual" />
+          <Frame time="79872" location="542.9749;310.3019" source="Manual" />
+          <Frame time="80384" location="547.7547;314.5786" source="Manual" />
+          <Frame time="80896" location="545.239;320.8679" source="Manual" />
+          <Frame time="81408" location="537.4402;323.1321" source="Manual" />
+          <Frame time="81920" location="538.6981;329.4214" source="Manual" />
+          <Frame time="82432" location="540.39;333.2516" source="Manual" />
+          <Frame time="82944" location="534.8553;338.283" source="Manual" />
+          <Frame time="83456" location="537.8742;341.5535" source="Manual" />
+          <Frame time="83968" location="536.8679;343.3145" source="Manual" />
+          <Frame time="84480" location="533.3459;348.3459" source="Manual" />
+          <Frame time="84992" location="534.3522;350.1069" source="Manual" />
+          <Frame time="85504" location="535.3585;353.6289" source="Manual" />
+          <Frame time="86016" location="535.3585;356.8994" source="Manual" />
+          <Frame time="86528" location="533.5975;358.6604" source="Manual" />
+          <Frame time="87040" location="531.5026;366.2638" source="Manual" />
+          <Frame time="87552" location="535.4158;369.1986" source="Manual" />
+          <Frame time="88064" location="532.481;369.1986" source="Manual" />
+          <Frame time="88576" location="530.5244;367.2421" source="Manual" />
+          <Frame time="89088" location="529.5461;372.1335" source="Manual" />
+          <Frame time="89600" location="533.4592;369.1986" source="Manual" />
+          <Frame time="90112" location="529.5461;371.1552" source="Manual" />
+          <Frame time="90624" location="531.5026;371.1552" source="Manual" />
+          <Frame time="91136" location="533.4592;372.1335" source="Manual" />
+          <Frame time="91648" location="533.4592;373.1118" source="Manual" />
+          <Frame time="92160" location="534.4375;372.1335" source="Manual" />
+          <Frame time="92672" location="533.4592;368.2203" source="Manual" />
+          <Frame time="93184" location="533.4592;368.2203" source="Manual" />
+          <Frame time="93696" location="533.4592;366.2638" source="Manual" />
+          <Frame time="94208" location="541.2855;367.2421" source="Manual" />
+          <Frame time="94720" location="539.3289;362.3506" source="Manual" />
+          <Frame time="95232" location="541.2855;360.3941" source="Manual" />
+          <Frame time="95744" location="542.2638;355.5027" source="Manual" />
+          <Frame time="96256" location="544.2203;350.6112" source="Manual" />
+          <Frame time="96768" location="544.2203;345.7198" source="Manual" />
+          <Frame time="97280" location="545.1986;342.7849" source="Manual" />
+          <Frame time="97792" location="551.8946;335.9163" source="Manual" />
+          <Frame time="98304" location="547.0032;327.1118" source="Manual" />
+          <Frame time="98816" location="553.8512;324.1769" source="Manual" />
+          <Frame time="99328" location="554.8295;317.3289" source="Manual" />
+          <Frame time="99840" location="560.6992;310.4809" source="Manual" />
+          <Frame time="100352" location="563.634;300.6981" source="Manual" />
+          <Frame time="100864" location="569.5037;292.8718" source="Manual" />
+          <Frame time="101376" location="575.3734;289.937" source="Manual" />
+          <Frame time="101888" location="573.4169;283.089" source="Manual" />
+          <Frame time="102400" location="576.3517;281.1324" source="Manual" />
+          <Frame time="102912" location="585.1563;276.241" source="Manual" />
+          <Frame time="103424" location="588.0911;277.2193" source="Manual" />
+          <Frame time="103936" location="610.5265;271.4168" source="Manual" />
+          <Frame time="104448" location="619.3311;268.482" source="Manual" />
+          <Frame time="104960" location="628.1356;269.4603" source="Manual" />
+          <Frame time="105472" location="642.8098;264.5688" source="Manual" />
+          <Frame time="105984" location="654.5493;262.6123" source="Manual" />
+          <Frame time="106496" location="672.1583;268.482" source="Manual" />
+          <Frame time="107008" location="685.8326;271.4179" source="Manual" />
+          <Frame time="107520" location="700.5068;285.1139" source="Manual" />
+          <Frame time="108032" location="706.3766;276.3093" source="Manual" />
+          <Frame time="108544" location="720.0725;286.0922" source="Manual" />
+          <Frame time="109056" location="722.0291;284.1356" source="Manual" />
+          <Frame time="109568" location="732.7903;280.2224" source="Manual" />
+          <Frame time="110080" location="732.7903;267.5048" source="Manual" />
+          <Frame time="110592" location="729.8553;275.331" source="Manual" />
+          <Frame time="111104" location="729.8553;272.3962" source="Manual" />
+          <Frame time="111616" location="728.8771;276.3093" source="Manual" />
+          <Frame time="112128" location="728.8771;280.2224" source="Manual" />
+          <Frame time="112640" location="727.8988;277.2876" source="Manual" />
+          <Frame time="113152" location="723.9857;274.3528" source="Manual" />
+          <Frame time="113664" location="723.9857;280.2224" source="Manual" />
+          <Frame time="114176" location="722.0291;276.3093" source="Manual" />
+          <Frame time="114688" location="720.0725;272.3962" source="Manual" />
+          <Frame time="115200" location="718.116;272.3962" source="Manual" />
+          <Frame time="115712" location="717.1377;274.3528" source="Manual" />
+          <Frame time="116224" location="717.1377;283.1573" source="Manual" />
+          <Frame time="116736" location="716.1594;282.179" source="Manual" />
+          <Frame time="117248" location="715.1812;281.2007" source="Manual" />
+          <Frame time="117760" location="714.2029;279.2442" source="Manual" />
+          <Frame time="118272" location="714.2029;285.1139" source="Manual" />
+          <Frame time="118784" location="716.1594;278.2659" source="Manual" />
+          <Frame time="119296" location="714.2029;287.0704" source="Manual" />
+          <Frame time="119808" location="710.2897;282.179" source="Manual" />
+          <Frame time="120320" location="710.2897;275.331" source="Manual" />
+          <Frame time="120832" location="707.3549;282.179" source="Manual" />
+          <Frame time="121344" location="704.42;267.5048" source="Manual" />
+          <Frame time="121856" location="696.5938;263.5916" source="Manual" />
+          <Frame time="122368" location="694.6372;276.3093" source="Manual" />
+          <Frame time="122880" location="690.724;273.3745" source="Manual" />
+          <Frame time="123392" location="686.8109;274.3528" source="Manual" />
+          <Frame time="123904" location="679.9629;275.331" source="Manual" />
+          <Frame time="124416" location="673.1149;274.3528" source="Manual" />
+          <Frame time="124928" location="671.1583;269.4613" source="Manual" />
+          <Frame time="125440" location="666.267;265.5482" source="Manual" />
+          <Frame time="125952" location="657.4624;264.5699" source="Manual" />
+          <Frame time="126464" location="649.6361;262.6133" source="Manual" />
+          <Frame time="126976" location="646.7013;260.6568" source="Manual" />
+          <Frame time="127488" location="646.7013;260.6568" source="Manual" />
+          <Frame time="128000" location="639.8533;262.6133" source="Manual" />
+          <Frame time="128512" location="637.8967;261.6351" source="Manual" />
+          <Frame time="129024" location="632.027;262.6133" source="Manual" />
+          <Frame time="129536" location="629.0922;260.6568" source="Manual" />
+          <Frame time="130048" location="624.5699;260.3517" source="Manual" />
+          <Frame time="130560" location="621.6351;262.3083" source="Manual" />
+          <Frame time="131072" location="617.7219;268.178" source="Manual" />
+          <Frame time="131584" location="622.6133;264.2648" source="Manual" />
+          <Frame time="132096" location="621.6351;263.2866" source="Manual" />
+          <Frame time="132608" location="621.6351;265.2431" source="Manual" />
+          <Frame time="133120" location="616.7437;267.1997" source="Manual" />
+          <Frame time="133632" location="615.7654;266.2214" source="Manual" />
+          <Frame time="134144" location="613.8088;276.0042" source="Manual" />
+          <Frame time="134656" location="612.8305;275.0259" source="Manual" />
+          <Frame time="135168" location="609.8956;280.8956" source="Manual" />
+          <Frame time="135680" location="609.8956;281.8739" source="Manual" />
+          <Frame time="136192" location="604.0259;287.7437" source="Manual" />
+          <Frame time="136704" location="604.0259;289.7002" source="Manual" />
+          <Frame time="137216" location="601.0911;293.6133" source="Manual" />
+          <Frame time="137728" location="600.1128;299.483" source="Manual" />
+          <Frame time="138240" location="600.1128;305.3528" source="Manual" />
+          <Frame time="138752" location="603.0477;306.331" source="Manual" />
+          <Frame time="139264" location="598.1563;311.2224" source="Manual" />
+          <Frame time="139776" location="597.178;315.1356" source="Manual" />
+          <Frame time="140288" location="596.1997;320.027" source="Manual" />
+          <Frame time="140800" location="594.2431;323.9401" source="Manual" />
+          <Frame time="141312" location="595.8956;325.5461" source="Manual" />
+          <Frame time="141824" location="595.8956;330.4375" source="Manual" />
+          <Frame time="142336" location="597.8522;336.3072" source="Manual" />
+          <Frame time="142848" location="598.8305;341.1986" source="Manual" />
+          <Frame time="143360" location="596.8739;347.0683" source="Manual" />
+          <Frame time="143872" location="593.9391;348.0466" source="Manual" />
+          <Frame time="144384" location="594.9174;353.9163" source="Manual" />
+          <Frame time="144896" location="598.8305;357.8294" source="Manual" />
+          <Frame time="145408" location="600.787;360.7643" source="Manual" />
+          <Frame time="145920" location="595.8956;363.6992" source="Manual" />
+          <Frame time="146432" location="594.9174;363.6992" source="Manual" />
+          <Frame time="146944" location="597.8522;367.6123" source="Manual" />
+          <Frame time="147456" location="598.8305;367.6123" source="Manual" />
+          <Frame time="147968" location="597.8522;368.5906" source="Manual" />
+          <Frame time="148480" location="597.8522;369.5688" source="Manual" />
+          <Frame time="148992" location="593.9391;370.5471" source="Manual" />
+          <Frame time="149504" location="593.9391;370.5471" source="Manual" />
+          <Frame time="150016" location="595.8956;375.4385" source="Manual" />
+          <Frame time="150528" location="593.9391;371.5254" source="Manual" />
+          <Frame time="151040" location="591.0042;371.5254" source="Manual" />
+          <Frame time="151552" location="593.9391;371.5254" source="Manual" />
+          <Frame time="152064" location="597.8522;372.5037" source="Manual" />
+          <Frame time="152576" location="602.7437;374.4603" source="Manual" />
+          <Frame time="153088" location="600.787;373.482" source="Manual" />
+          <Frame time="153600" location="597.8522;369.5688" source="Manual" />
+          <Frame time="154112" location="598.8305;370.5471" source="Manual" />
+          <Frame time="154624" location="604.7002;372.5037" source="Manual" />
+          <Frame time="155136" location="605.6785;371.5254" source="Manual" />
+          <Frame time="155648" location="599.8088;366.634" source="Manual" />
+          <Frame time="156160" location="599.8088;366.634" source="Manual" />
+          <Frame time="156672" location="601.7654;366.634" source="Manual" />
+          <Frame time="157184" location="601.7654;363.6992" source="Manual" />
+          <Frame time="157696" location="601.7654;361.7426" source="Manual" />
+          <Frame time="158208" location="600.787;355.8729" source="Manual" />
+          <Frame time="158720" location="598.8305;348.0466" source="Manual" />
+          <Frame time="159232" location="597.8522;347.0683" source="Manual" />
+          <Frame time="159744" location="598.8305;342.1769" source="Manual" />
+          <Frame time="160256" location="599.8088;334.3506" source="Manual" />
+          <Frame time="160768" location="597.8522;330.4375" source="Manual" />
+          <Frame time="161280" location="597.8522;323.5895" source="Manual" />
+          <Frame time="161792" location="599.8088;318.6981" source="Manual" />
+          <Frame time="162304" location="601.7654;312.8284" source="Manual" />
+          <Frame time="162816" location="599.8088;306.9587" source="Manual" />
+          <Frame time="163328" location="604.7002;305.0021" source="Manual" />
+          <Frame time="163840" location="609.5916;301.089" source="Manual" />
+          <Frame time="164352" location="612.5265;299.1324" source="Manual" />
+          <Frame time="164864" location="614.0053;294.8739" source="Manual" />
+          <Frame time="165376" location="624.7664;292.9174" source="Manual" />
+          <Frame time="165888" location="633.571;283.1345" source="Manual" />
+          <Frame time="166400" location="644.3321;280.1997" source="Manual" />
+          <Frame time="166912" location="651.1801;281.178" source="Manual" />
+          <Frame time="167424" location="658.0281;289.0042" source="Manual" />
+          <Frame time="167936" location="672.7023;281.178" source="Manual" />
+          <Frame time="168448" location="683.4634;267.482" source="Manual" />
+          <Frame time="168960" location="700.0942;275.3083" source="Manual" />
+          <Frame time="169472" location="708.8988;279.2214" source="Manual" />
+          <Frame time="169984" location="718.6816;273.3517" source="Manual" />
+          <Frame time="170496" location="724.5514;272.3734" source="Manual" />
+          <Frame time="171008" location="730.4211;273.3517" source="Manual" />
+          <Frame time="171520" location="727.4862;267.482" source="Manual" />
+          <Frame time="172032" location="734.3342;268.4603" source="Manual" />
+          <Frame time="172544" location="731.3994;266.5037" source="Manual" />
+          <Frame time="173056" location="734.3342;270.4168" source="Manual" />
+          <Frame time="173568" location="728.4645;268.4603" source="Manual" />
+          <Frame time="174080" location="726.5079;271.3951" source="Manual" />
+          <Frame time="174592" location="722.5948;270.4168" source="Manual" />
+          <Frame time="175104" location="718.6816;275.3083" source="ForcedClosest" />
+          <Frame time="175616" location="718.6816;275.3083" source="Manual" />
+          <Frame time="176128" location="718.6816;269.4385" source="Manual" />
+          <Frame time="176640" location="718.6816;274.33" source="Manual" />
+        </Timeline>
+      </TrackablePoint>
+      <TrackablePoint key="b">
+        <TrackerParameters>
+          <SimilarityThreshold>0.5</SimilarityThreshold>
+          <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+          <RefinementNeighborhood>1</RefinementNeighborhood>
+          <SearchWindow>256;144</SearchWindow>
+          <BlockWindow>64;36</BlockWindow>
+        </TrackerParameters>
+        <NonTrackingValue>712.9937;638.0189</NonTrackingValue>
+        <CurrentValue>690.7623;344.954</CurrentValue>
+        <Timeline>
+          <Frame time="512" location="728.2676;329.4559" source="Manual" />
+          <Frame time="1024" location="728.8572;339.4042" source="Manual" />
+          <Frame time="1536" location="730.5969;334.1852" source="Manual" />
+          <Frame time="2048" location="734.0762;342.8835" source="Manual" />
+          <Frame time="2560" location="730.5969;339.4042" source="Manual" />
+          <Frame time="3072" location="734.0762;346.3628" source="Manual" />
+          <Frame time="3584" location="734.0762;346.3628" source="Manual" />
+          <Frame time="4096" location="741.0349;351.5818" source="Manual" />
+          <Frame time="4608" location="744.5142;346.3628" source="Manual" />
+          <Frame time="5120" location="742.7745;344.6232" source="Manual" />
+          <Frame time="5632" location="744.5142;344.6232" source="Manual" />
+          <Frame time="6144" location="741.0349;346.3628" source="Manual" />
+          <Frame time="6656" location="754.9521;353.3215" source="Manual" />
+          <Frame time="7168" location="751.4728;355.0611" source="Manual" />
+          <Frame time="7680" location="751.4728;360.2801" source="Manual" />
+          <Frame time="8192" location="749.7332;355.0611" source="Manual" />
+          <Frame time="8704" location="754.9521;360.2801" source="Manual" />
+          <Frame time="9216" location="754.9521;363.7594" source="Manual" />
+          <Frame time="9728" location="765.3901;375.9371" source="Manual" />
+          <Frame time="10240" location="767.1298;377.6767" source="Manual" />
+          <Frame time="10752" location="763.6505;374.1974" source="Manual" />
+          <Frame time="11264" location="767.1298;374.1974" source="Manual" />
+          <Frame time="11776" location="761.9108;377.6767" source="Manual" />
+          <Frame time="12288" location="761.9108;393.3337" source="Manual" />
+          <Frame time="12800" location="760.1711;388.1147" source="Manual" />
+          <Frame time="13312" location="765.3901;398.5527" source="Manual" />
+          <Frame time="13824" location="765.3901;400.2923" source="Manual" />
+          <Frame time="14336" location="758.4315;403.7717" source="Manual" />
+          <Frame time="14848" location="761.9108;412.47" source="Manual" />
+          <Frame time="15360" location="758.4315;415.9493" source="Manual" />
+          <Frame time="15872" location="758.4315;419.4286" source="Manual" />
+          <Frame time="16384" location="758.4315;426.3873" source="Manual" />
+          <Frame time="16896" location="760.1711;426.3873" source="Manual" />
+          <Frame time="17408" location="761.9108;436.8252" source="Manual" />
+          <Frame time="17920" location="761.9108;447.2632" source="Manual" />
+          <Frame time="18432" location="761.9108;442.0442" source="Manual" />
+          <Frame time="18944" location="761.9108;449.0029" source="Manual" />
+          <Frame time="19456" location="751.4728;454.2219" source="Manual" />
+          <Frame time="19968" location="751.4728;445.5235" source="Manual" />
+          <Frame time="20480" location="758.3074;454.9079" source="Manual" />
+          <Frame time="20992" location="749.6091;453.1683" source="Manual" />
+          <Frame time="21504" location="747.8694;454.9079" source="Manual" />
+          <Frame time="22016" location="753.0884;461.8666" source="Manual" />
+          <Frame time="22528" location="749.6091;463.6062" source="Manual" />
+          <Frame time="23040" location="737.4315;456.6476" source="Manual" />
+          <Frame time="23552" location="747.8694;468.8252" source="Manual" />
+          <Frame time="24064" location="744.3901;472.3046" source="Manual" />
+          <Frame time="24576" location="747.8694;468.8252" source="Manual" />
+          <Frame time="25088" location="742.6505;470.5649" source="Manual" />
+          <Frame time="25600" location="747.8694;474.0442" source="Manual" />
+          <Frame time="26112" location="740.9108;472.3046" source="Manual" />
+          <Frame time="26624" location="742.6505;468.8252" source="Manual" />
+          <Frame time="27136" location="742.6505;479.2632" source="Manual" />
+          <Frame time="27648" location="740.9108;482.7425" source="Manual" />
+          <Frame time="28160" location="744.3901;482.7425" source="Manual" />
+          <Frame time="28672" location="744.3901;482.7425" source="Manual" />
+          <Frame time="29184" location="744.3901;479.2632" source="Manual" />
+          <Frame time="29696" location="747.8694;482.7425" source="Manual" />
+          <Frame time="30208" location="740.9108;475.7839" source="Manual" />
+          <Frame time="30720" location="739.1711;474.0442" source="Manual" />
+          <Frame time="31232" location="737.4315;475.7839" source="Manual" />
+          <Frame time="31744" location="742.6505;482.7425" source="Manual" />
+          <Frame time="32256" location="749.6091;481.0029" source="Manual" />
+          <Frame time="32768" location="749.6091;475.7839" source="Manual" />
+          <Frame time="33280" location="747.8694;472.3046" source="Manual" />
+          <Frame time="33792" location="744.3901;467.0856" source="Manual" />
+          <Frame time="34304" location="753.0884;460.1269" source="Manual" />
+          <Frame time="34816" location="754.8281;461.8666" source="Manual" />
+          <Frame time="35328" location="758.3074;453.1683" source="Manual" />
+          <Frame time="35840" location="753.0884;447.9493" source="Manual" />
+          <Frame time="36352" location="756.5677;440.9907" source="Manual" />
+          <Frame time="36864" location="767.0057;447.9493" source="Manual" />
+          <Frame time="37376" location="751.3488;420.1147" source="Manual" />
+          <Frame time="37888" location="747.8694;414.8957" source="Manual" />
+          <Frame time="38400" location="747.8694;409.6767" source="Manual" />
+          <Frame time="38912" location="754.8281;392.2801" source="Manual" />
+          <Frame time="39424" location="744.3901;374.8835" source="Manual" />
+          <Frame time="39936" location="739.1711;369.6645" source="Manual" />
+          <Frame time="40448" location="737.4315;364.4455" source="Manual" />
+          <Frame time="40960" location="732.2125;357.4869" source="Manual" />
+          <Frame time="41472" location="721.7745;352.2679" source="Manual" />
+          <Frame time="41984" location="711.3365;350.5282" source="Manual" />
+          <Frame time="42496" location="709.5969;336.6109" source="Manual" />
+          <Frame time="43008" location="706.1176;341.8299" source="Manual" />
+          <Frame time="43520" location="702.6382;343.5696" source="Manual" />
+          <Frame time="44032" location="702.6382;343.5696" source="Manual" />
+          <Frame time="44544" location="704.3779;336.6109" source="Manual" />
+          <Frame time="45056" location="702.6382;338.3506" source="Manual" />
+          <Frame time="45568" location="702.6382;336.6109" source="Manual" />
+          <Frame time="46080" location="702.6382;333.1316" source="Manual" />
+          <Frame time="46592" location="700.8986;333.1316" source="Manual" />
+          <Frame time="47104" location="706.1176;334.8713" source="Manual" />
+          <Frame time="47616" location="709.5969;336.6109" source="Manual" />
+          <Frame time="48128" location="704.3779;334.8713" source="Manual" />
+          <Frame time="48640" location="709.5969;340.0903" source="Manual" />
+          <Frame time="49152" location="709.5969;343.5696" source="Manual" />
+          <Frame time="49664" location="707.8572;336.6109" source="Manual" />
+          <Frame time="50176" location="709.5969;340.0903" source="Manual" />
+          <Frame time="50688" location="702.6382;334.8713" source="Manual" />
+          <Frame time="51200" location="707.8572;336.6109" source="Manual" />
+          <Frame time="51712" location="700.8986;324.4333" source="Manual" />
+          <Frame time="52224" location="704.3779;322.6936" source="Manual" />
+          <Frame time="52736" location="702.6382;320.954" source="Manual" />
+          <Frame time="53248" location="702.6382;329.6523" source="Manual" />
+          <Frame time="53760" location="704.3779;327.9126" source="Manual" />
+          <Frame time="54272" location="706.1176;336.6109" source="Manual" />
+          <Frame time="54784" location="695.6796;333.1316" source="Manual" />
+          <Frame time="55296" location="695.6796;336.6109" source="Manual" />
+          <Frame time="55808" location="693.9399;336.6109" source="Manual" />
+          <Frame time="56320" location="695.6796;336.6109" source="Manual" />
+          <Frame time="56832" location="690.4606;333.1316" source="Manual" />
+          <Frame time="57344" location="692.2003;334.8713" source="Manual" />
+          <Frame time="57856" location="695.6796;334.8713" source="Manual" />
+          <Frame time="58368" location="685.2416;345.3092" source="Manual" />
+          <Frame time="58880" location="688.7209;336.6109" source="Manual" />
+          <Frame time="59392" location="693.1758;357.2801" source="Manual" />
+          <Frame time="59904" location="686.2172;357.2801" source="Manual" />
+          <Frame time="60416" location="689.6965;350.3215" source="Manual" />
+          <Frame time="60928" location="689.6965;346.8421" source="Manual" />
+          <Frame time="61440" location="687.9568;357.2801" source="Manual" />
+          <Frame time="61952" location="693.1758;364.2388" source="Manual" />
+          <Frame time="62464" location="694.9155;353.8008" source="Manual" />
+          <Frame time="62976" location="691.4362;353.8008" source="Manual" />
+          <Frame time="63488" location="694.9155;350.3215" source="Manual" />
+          <Frame time="64000" location="696.6552;352.0611" source="Manual" />
+          <Frame time="64512" location="696.6552;346.8421" source="Manual" />
+          <Frame time="65024" location="700.1345;353.8008" source="Manual" />
+          <Frame time="65536" location="703.6138;336.4042" source="Manual" />
+          <Frame time="66048" location="703.6138;334.6645" source="Manual" />
+          <Frame time="66560" location="703.6138;336.4042" source="Manual" />
+          <Frame time="67072" location="703.6138;341.6232" source="Manual" />
+          <Frame time="67584" location="703.6138;339.8835" source="Manual" />
+          <Frame time="68096" location="708.8328;341.6232" source="Manual" />
+          <Frame time="68608" location="707.0931;339.8835" source="Manual" />
+          <Frame time="69120" location="707.0931;350.3215" source="Manual" />
+          <Frame time="69632" location="701.8741;348.5818" source="Manual" />
+          <Frame time="70144" location="710.5724;350.3215" source="Manual" />
+          <Frame time="70656" location="708.8328;350.3215" source="Manual" />
+          <Frame time="71168" location="710.5724;348.5818" source="Manual" />
+          <Frame time="71680" location="708.8328;353.8008" source="Manual" />
+          <Frame time="72192" location="714.0518;360.7594" source="Manual" />
+          <Frame time="72704" location="707.0931;359.0198" source="Manual" />
+          <Frame time="73216" location="714.0518;360.7594" source="Manual" />
+          <Frame time="73728" location="707.0931;359.0198" source="Manual" />
+          <Frame time="74240" location="705.3535;359.0198" source="Manual" />
+          <Frame time="74752" location="710.5724;376.4164" source="Manual" />
+          <Frame time="75264" location="710.5724;367.7181" source="Manual" />
+          <Frame time="75776" location="708.8328;381.6354" source="Manual" />
+          <Frame time="76288" location="724.4897;399.032" source="Manual" />
+          <Frame time="76800" location="714.0518;399.032" source="Manual" />
+          <Frame time="77312" location="712.3121;407.7303" source="Manual" />
+          <Frame time="77824" location="714.0518;407.7303" source="Manual" />
+          <Frame time="78336" location="708.8328;405.9907" source="Manual" />
+          <Frame time="78848" location="707.0931;426.8666" source="Manual" />
+          <Frame time="79360" location="712.3121;430.3459" source="Manual" />
+          <Frame time="79872" location="714.0518;437.3046" source="Manual" />
+          <Frame time="80384" location="710.5724;442.5235" source="Manual" />
+          <Frame time="80896" location="708.8328;449.4822" source="Manual" />
+          <Frame time="81408" location="708.8328;454.7012" source="Manual" />
+          <Frame time="81920" location="712.3121;454.7012" source="Manual" />
+          <Frame time="82432" location="707.0931;451.2219" source="Manual" />
+          <Frame time="82944" location="705.3535;458.1805" source="Manual" />
+          <Frame time="83456" location="701.8741;458.1805" source="Manual" />
+          <Frame time="83968" location="698.3948;461.6598" source="Manual" />
+          <Frame time="84480" location="700.1345;475.5771" source="Manual" />
+          <Frame time="84992" location="701.8741;475.5771" source="Manual" />
+          <Frame time="85504" location="700.1345;482.5358" source="Manual" />
+          <Frame time="86016" location="698.3948;486.0151" source="Manual" />
+          <Frame time="86528" location="696.6552;492.9737" source="Manual" />
+          <Frame time="87040" location="696.6552;489.4944" source="Manual" />
+          <Frame time="87552" location="705.3535;492.9737" source="Manual" />
+          <Frame time="88064" location="707.0931;492.9737" source="Manual" />
+          <Frame time="88576" location="698.3948;496.4531" source="Manual" />
+          <Frame time="89088" location="705.3535;499.9324" source="Manual" />
+          <Frame time="89600" location="703.6138;487.7548" source="Manual" />
+          <Frame time="90112" location="700.1345;499.9324" source="Manual" />
+          <Frame time="90624" location="700.1345;486.0151" source="Manual" />
+          <Frame time="91136" location="703.6138;494.7134" source="Manual" />
+          <Frame time="91648" location="698.3948;489.4944" source="Manual" />
+          <Frame time="92160" location="703.6138;496.4531" source="Manual" />
+          <Frame time="92672" location="701.8741;499.9324" source="Manual" />
+          <Frame time="93184" location="710.5724;492.9737" source="Manual" />
+          <Frame time="93696" location="703.6138;494.7134" source="Manual" />
+          <Frame time="94208" location="707.0931;489.4944" source="Manual" />
+          <Frame time="94720" location="710.5724;491.2341" source="Manual" />
+          <Frame time="95232" location="710.5724;492.9737" source="Manual" />
+          <Frame time="95744" location="710.5724;484.2754" source="Manual" />
+          <Frame time="96256" location="710.5724;473.8375" source="Manual" />
+          <Frame time="96768" location="710.5724;470.3581" source="Manual" />
+          <Frame time="97280" location="707.0931;459.9202" source="Manual" />
+          <Frame time="97792" location="724.4897;458.1805" source="Manual" />
+          <Frame time="98304" location="721.0104;454.7012" source="Manual" />
+          <Frame time="98816" location="717.5311;439.0442" source="Manual" />
+          <Frame time="99328" location="721.0104;428.6062" source="Manual" />
+          <Frame time="99840" location="726.2294;433.8252" source="Manual" />
+          <Frame time="100352" location="721.0104;411.2096" source="Manual" />
+          <Frame time="100864" location="726.2294;409.47" source="Manual" />
+          <Frame time="101376" location="721.0104;385.1147" source="Manual" />
+          <Frame time="101888" location="721.0104;378.1561" source="Manual" />
+          <Frame time="102400" location="721.0104;367.7181" source="Manual" />
+          <Frame time="102912" location="721.0104;357.2801" source="Manual" />
+          <Frame time="103424" location="717.5311;364.2388" source="Manual" />
+          <Frame time="103936" location="719.2708;332.9248" source="Manual" />
+          <Frame time="104448" location="714.0518;332.9248" source="Manual" />
+          <Frame time="104960" location="712.3121;329.4455" source="Manual" />
+          <Frame time="105472" location="708.8328;339.8835" source="Manual" />
+          <Frame time="105984" location="701.8741;339.8835" source="Manual" />
+          <Frame time="106496" location="696.6552;346.8421" source="Manual" />
+          <Frame time="107008" location="696.6552;348.5818" source="Manual" />
+          <Frame time="107520" location="693.1758;343.3628" source="Manual" />
+          <Frame time="108032" location="693.1758;336.4042" source="Manual" />
+          <Frame time="108544" location="689.6965;352.0611" source="Manual" />
+          <Frame time="109056" location="682.7379;348.5818" source="Manual" />
+          <Frame time="109568" location="686.2172;352.0611" source="Manual" />
+          <Frame time="110080" location="682.7379;350.3215" source="Manual" />
+          <Frame time="110592" location="687.9568;364.2388" source="Manual" />
+          <Frame time="111104" location="687.9568;365.9784" source="Manual" />
+          <Frame time="111616" location="682.7379;360.7594" source="Manual" />
+          <Frame time="112128" location="682.7379;367.7181" source="Manual" />
+          <Frame time="112640" location="686.2172;369.4577" source="Manual" />
+          <Frame time="113152" location="682.7379;378.1561" source="Manual" />
+          <Frame time="113664" location="686.2172;376.4164" source="Manual" />
+          <Frame time="114176" location="684.4775;374.6767" source="Manual" />
+          <Frame time="114688" location="682.7379;371.1974" source="Manual" />
+          <Frame time="115200" location="686.2172;379.8957" source="Manual" />
+          <Frame time="115712" location="682.7379;362.4991" source="Manual" />
+          <Frame time="116224" location="684.4775;383.375" source="Manual" />
+          <Frame time="116736" location="682.7379;381.6354" source="Manual" />
+          <Frame time="117248" location="682.7379;372.9371" source="Manual" />
+          <Frame time="117760" location="682.7379;374.6767" source="Manual" />
+          <Frame time="118272" location="682.7379;371.1974" source="Manual" />
+          <Frame time="118784" location="679.2585;371.1974" source="Manual" />
+          <Frame time="119296" location="682.7379;371.1974" source="Manual" />
+          <Frame time="119808" location="684.4775;367.7181" source="Manual" />
+          <Frame time="120320" location="686.2172;374.6767" source="Manual" />
+          <Frame time="120832" location="679.2585;372.9371" source="Manual" />
+          <Frame time="121344" location="686.2172;367.7181" source="Manual" />
+          <Frame time="121856" location="698.3948;353.8008" source="Manual" />
+          <Frame time="122368" location="700.1345;360.7594" source="Manual" />
+          <Frame time="122880" location="701.8741;362.4991" source="Manual" />
+          <Frame time="123392" location="701.8741;350.3215" source="Manual" />
+          <Frame time="123904" location="707.0931;360.7594" source="Manual" />
+          <Frame time="124416" location="700.1345;339.8835" source="Manual" />
+          <Frame time="124928" location="707.0931;348.5818" source="Manual" />
+          <Frame time="125440" location="707.0931;357.2801" source="Manual" />
+          <Frame time="125952" location="712.3121;345.1025" source="Manual" />
+          <Frame time="126464" location="712.3121;352.0611" source="Manual" />
+          <Frame time="126976" location="715.7914;343.3628" source="Manual" />
+          <Frame time="127488" location="719.2708;332.9248" source="Manual" />
+          <Frame time="128000" location="726.2294;339.8835" source="Manual" />
+          <Frame time="128512" location="721.0104;343.3628" source="Manual" />
+          <Frame time="129024" location="729.7087;334.6645" source="Manual" />
+          <Frame time="129536" location="731.4484;339.8835" source="Manual" />
+          <Frame time="130048" location="734.9277;339.8835" source="Manual" />
+          <Frame time="130560" location="736.6674;348.5818" source="Manual" />
+          <Frame time="131072" location="736.6674;339.8835" source="Manual" />
+          <Frame time="131584" location="734.9277;345.1025" source="Manual" />
+          <Frame time="132096" location="738.407;353.8008" source="Manual" />
+          <Frame time="132608" location="748.845;360.7594" source="Manual" />
+          <Frame time="133120" location="745.3657;360.7594" source="Manual" />
+          <Frame time="133632" location="755.8036;371.1974" source="Manual" />
+          <Frame time="134144" location="755.8036;372.9371" source="Manual" />
+          <Frame time="134656" location="745.3657;371.1974" source="Manual" />
+          <Frame time="135168" location="748.845;376.4164" source="Manual" />
+          <Frame time="135680" location="750.5847;385.1147" source="Manual" />
+          <Frame time="136192" location="747.1053;395.5527" source="Manual" />
+          <Frame time="136704" location="752.3243;404.251" source="Manual" />
+          <Frame time="137216" location="757.5433;414.6889" source="Manual" />
+          <Frame time="137728" location="754.064;416.4286" source="Manual" />
+          <Frame time="138240" location="752.3243;421.6476" source="Manual" />
+          <Frame time="138752" location="762.7623;433.8252" source="Manual" />
+          <Frame time="139264" location="761.0226;430.3459" source="Manual" />
+          <Frame time="139776" location="761.0226;430.3459" source="Manual" />
+          <Frame time="140288" location="766.2416;440.7839" source="Manual" />
+          <Frame time="140800" location="769.7209;451.2219" source="Manual" />
+          <Frame time="141312" location="754.064;447.7425" source="Manual" />
+          <Frame time="141824" location="759.283;454.7012" source="Manual" />
+          <Frame time="142336" location="752.3243;454.7012" source="Manual" />
+          <Frame time="142848" location="759.283;454.7012" source="Manual" />
+          <Frame time="143360" location="757.5433;465.1391" source="Manual" />
+          <Frame time="143872" location="757.5433;465.1391" source="Manual" />
+          <Frame time="144384" location="759.283;470.3581" source="Manual" />
+          <Frame time="144896" location="755.8036;479.0564" source="Manual" />
+          <Frame time="145408" location="762.7623;479.0564" source="Manual" />
+          <Frame time="145920" location="757.5433;489.4944" source="Manual" />
+          <Frame time="146432" location="759.283;494.7134" source="Manual" />
+          <Frame time="146944" location="761.0226;492.9737" source="Manual" />
+          <Frame time="147456" location="757.5433;492.9737" source="Manual" />
+          <Frame time="147968" location="762.7623;499.9324" source="Manual" />
+          <Frame time="148480" location="762.7623;503.4117" source="Manual" />
+          <Frame time="148992" location="758.8572;496.6185" source="Manual" />
+          <Frame time="149504" location="760.5969;503.5771" source="Manual" />
+          <Frame time="150016" location="760.5969;508.7961" source="Manual" />
+          <Frame time="150528" location="764.0762;503.5771" source="Manual" />
+          <Frame time="151040" location="764.0762;508.7961" source="Manual" />
+          <Frame time="151552" location="757.9108;508.1391" source="Manual" />
+          <Frame time="152064" location="759.6505;504.6598" source="Manual" />
+          <Frame time="152576" location="757.9108;508.1391" source="Manual" />
+          <Frame time="153088" location="754.4315;495.9615" source="Manual" />
+          <Frame time="153600" location="759.6505;502.9202" source="Manual" />
+          <Frame time="154112" location="756.1711;508.1391" source="Manual" />
+          <Frame time="154624" location="761.3901;501.1805" source="Manual" />
+          <Frame time="155136" location="757.9108;499.4408" source="Manual" />
+          <Frame time="155648" location="763.1298;499.4408" source="Manual" />
+          <Frame time="156160" location="768.3488;501.1805" source="Manual" />
+          <Frame time="156672" location="764.8694;497.7012" source="Manual" />
+          <Frame time="157184" location="764.8694;494.2219" source="Manual" />
+          <Frame time="157696" location="764.8694;489.0029" source="Manual" />
+          <Frame time="158208" location="763.1298;480.3046" source="Manual" />
+          <Frame time="158720" location="771.8281;476.8252" source="Manual" />
+          <Frame time="159232" location="761.3901;455.9493" source="Manual" />
+          <Frame time="159744" location="764.8694;464.6476" source="Manual" />
+          <Frame time="160256" location="763.1298;454.2096" source="Manual" />
+          <Frame time="160768" location="763.1298;442.032" source="Manual" />
+          <Frame time="161280" location="763.1298;429.8544" source="Manual" />
+          <Frame time="161792" location="761.3901;417.6767" source="Manual" />
+          <Frame time="162304" location="757.9108;412.4577" source="Manual" />
+          <Frame time="162816" location="761.3901;417.6767" source="Manual" />
+          <Frame time="163328" location="750.9521;388.1025" source="Manual" />
+          <Frame time="163840" location="750.9521;389.8421" source="Manual" />
+          <Frame time="164352" location="747.4728;379.4042" source="Manual" />
+          <Frame time="164864" location="740.5142;372.4455" source="Manual" />
+          <Frame time="165376" location="740.5142;365.4869" source="Manual" />
+          <Frame time="165888" location="735.2952;362.0075" source="Manual" />
+          <Frame time="166400" location="734.2538;343.2143" source="Manual" />
+          <Frame time="166912" location="725.5555;337.9953" source="Manual" />
+          <Frame time="167424" location="718.5969;336.2557" source="Manual" />
+          <Frame time="167936" location="715.1176;329.297" source="Manual" />
+          <Frame time="168448" location="715.1176;332.7763" source="Manual" />
+          <Frame time="168960" location="697.7209;334.516" source="Manual" />
+          <Frame time="169472" location="699.4606;325.8177" source="Manual" />
+          <Frame time="169984" location="697.7209;322.3384" source="Manual" />
+          <Frame time="170496" location="687.283;327.5573" source="Manual" />
+          <Frame time="171008" location="695.9813;329.297" source="Manual" />
+          <Frame time="171520" location="689.0226;325.8177" source="Manual" />
+          <Frame time="172032" location="694.2416;318.859" source="Manual" />
+          <Frame time="172544" location="689.0226;317.1194" source="Manual" />
+          <Frame time="173056" location="690.7623;313.64" source="Manual" />
+          <Frame time="173568" location="689.0226;341.4746" source="Manual" />
+          <Frame time="174080" location="687.283;339.735" source="Manual" />
+          <Frame time="174592" location="689.0226;339.735" source="Manual" />
+          <Frame time="175104" location="690.7623;336.2557" source="Manual" />
+          <Frame time="175616" location="690.7623;341.4746" source="Manual" />
+          <Frame time="176128" location="697.7209;339.735" source="Manual" />
+          <Frame time="176640" location="690.7623;344.954" source="Manual" />
+        </Timeline>
+      </TrackablePoint>
+    </TrackableDrawing>
+  </Trackability>
+  <VideoFilters>
+    <Kinogram>
+      <TileCount>18</TileCount>
+      <Rows>3</Rows>
+      <CropSize>400;600</CropSize>
+      <CropPositions>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+      </CropPositions>
+      <AutoInterpolate>true</AutoInterpolate>
+      <LeftToRight>true</LeftToRight>
+      <BorderColor>44;44;44</BorderColor>
+      <BorderVisible>true</BorderVisible>
+      <MeasureLabelType>None</MeasureLabelType>
+    </Kinogram>
+  </VideoFilters>
+</KinoveaVideoAnalysis>
