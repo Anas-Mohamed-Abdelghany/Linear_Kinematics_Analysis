@@ -1,1 +1,1 @@
-# *The Video we worked on!
+# The Video we worked on!
