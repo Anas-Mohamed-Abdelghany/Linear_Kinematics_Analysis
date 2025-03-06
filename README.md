@@ -29,11 +29,13 @@ This project explores the **linear kinematics** of a **squat** using **Kinovea s
 ## 📂 **Project Files**  
 - 📹 **Video Data** – The original squat video used for analysis.
 
- Uploading Final - Comprresed.mp4…
+
+https://github.com/user-attachments/assets/32fdebdf-e569-43d6-b115-fa092412e49e
+ 
 
 - 📌 **Kinovea Tracking Files** – Marker placements and tracking data.
 
-[]
+[https://github.com/Anas-Mohamed-Abdelghany/Linear_Kinematics_Analysis/blob/main/final.kva]
 
 - 📈 **Data Analysis** – Processed position, velocity, and acceleration data in spreadsheets.
 
